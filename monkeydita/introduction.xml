@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="cintro">
+  <title>Monkeys are good people</title>
+  <shortdesc>We appreciate your commitment to the monkey lifestyle</shortdesc>
+  <prolog>
+    
+    <author type="creator">Monkey Isme</author>
+    <copyright>
+      <copyryear year="2011"/>
+      <copyrholder>Monkeys</copyrholder>
+    </copyright>
+    
+  </prolog>
+  <conbody>
+    <p>Concept definition. Hello monkey friend. Not that you are a friend who is a monkey, but
+            you are a friend of monkeys. This manual includes everything you need to know in order
+            to become the best monkey person ever. Please read and be happy.</p>
+    <image href="happy.jpg" id="image_68c0c20f-0db5-46f3-b83f-4fd38e8fcfd3"/>
+    <note id="mean">Monkeys are fun, but they can be mean! Be careful when handling monkeys.</note>
+  </conbody>
+</concept>

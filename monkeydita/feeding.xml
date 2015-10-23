@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="taskId">
+    <title>Feeding a monkey</title>
+    <shortdesc>Quick introduction to the art and science of monkey feeding</shortdesc>
+    <prolog>
+        
+        <author type="creator">Monkey Isme</author>
+        <copyright>
+            <copyryear year="2011"/>
+            <copyrholder>Monkeys</copyrholder>
+        </copyright>
+        
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Feed monkeys only when they are hungry</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Let the monkey know that food is coming</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Address the monkey in perfect English. Monkeys do not speak Spanish</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Announce food <b>only</b> if it's coming soon</cmd>
+                    </substep>
+                    
+                </substeps>
+                
+            </step>
+            <step>
+                <cmd>Serve food cold. Monkeys do not like hot food</cmd>
+                <info><note conref="introduction.xml#cintro/mean"/>
+                    <image href="eating.jpg"
+                        id="image_df153a74-1441-427f-8e6d-008cbb7472cb"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
