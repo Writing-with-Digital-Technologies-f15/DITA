@@ -23,7 +23,7 @@
       <step>
         <cmd>Start the music and let the magic happen</cmd>
         <info>
-          <note conref="introduction.xml#cintro/mean"/>
+          <note conref="c_introduction.dita#cintro/mean"/>
           <image href="dancing.jpg" id="image_a712dfa3-647a-4e01-831f-b1f26f10b3f1"/>
         </info>
       </step>

@@ -32,7 +32,7 @@
             </step>
             <step>
                 <cmd>Serve food cold. Monkeys do not like hot food</cmd>
-                <info><note conref="introduction.xml#cintro/mean"/>
+                <info><note conref="c_introduction.dita#cintro/mean"/>
                     <image href="eating.jpg"
                         id="image_df153a74-1441-427f-8e6d-008cbb7472cb"/></info>
             </step>

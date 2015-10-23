@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/map.dtd">
 <map title="DITA Topic Map">
     <title>Manual for monkey friends</title>
-    <topicref href="introduction.xml"/>
-    <topicref href="feeding.xml"/>
-    <topicref href="dancing.xml"/>
+    <topicref href="c_introduction.dita"/>
+    <topicref href="t_feeding.dita"/>
+    <topicref href="t_dancing.dita"/>
 </map>
