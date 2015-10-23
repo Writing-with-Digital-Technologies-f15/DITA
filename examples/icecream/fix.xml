@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="fix">
+    <title>How to fix the FG-05 machine</title>
+    <shortdesc>This section gives you all the information you need to clean your ice cream
+    machine</shortdesc>
+    <prolog>
+        
+        <author type="creator">Michael Lopez</author>
+        <copyright>
+            <copyryear year="2011"/>
+            <copyrholder>Ice Makers</copyrholder>
+        </copyright>
+        
+    </prolog>
+    <taskbody>
+        <context><p>If the machine ain't broken, don't try to fix it.</p></context>
+        <steps>
+            <step>
+                <cmd>Open the machine by kicking its right side.</cmd>
+                <info> <p conref="welcome.xml#welcome/warning"/></info>
+            </step>
+            <step><cmd>Determine the problem.</cmd>
+                <choices>
+                    <choice>If the machine was making an ugly noise, then replace the flux capacitor.</choice>
+                    <choice>If the machine was not working at all, then replace the power element.</choice>
+                </choices>
+            </step>
+            <step><cmd>Evaluate the problem.</cmd>
+                <choicetable>
+                    <chhead>
+                        <choptionhd>Problem</choptionhd>
+                        <chdeschd>Solution</chdeschd>
+                    </chhead>
+                    <chrow><choption>Ice cream is sour</choption>
+                        <chdesc>Clean the filter</chdesc></chrow>
+                    <chrow><choption>Ice cream is yummy</choption>
+                        <chdesc>Well, that's not a problem, Einstein!</chdesc></chrow>
+                </choicetable>
+                </step>
+            
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="welcome">
+    <title>Welcome to the Ice Cream Maker FG-05 Service Manual</title>
+   
+    <shortdesc>This service manual will show you the main tasks needed to keep your FG-05 making awesome and delish ice cream for years and years to come.</shortdesc>
+    <prolog>
+ 
+            <author type="creator">Michael Lopez</author>
+        <copyright>
+            <copyryear year="2011"/>
+            <copyrholder>Ice Makers</copyrholder>
+        </copyright>
+        
+    </prolog>
+    <conbody>
+        <image href="machine.jpg" id="machine"/>
+        <p>This manual
+            contains the following modules:</p>
+        <ul>
+            <li>How to clean the FG-05 machine</li>
+            <li>How to fix the FG-05 machine</li>
+        </ul>
+        <p id="warning">Always unplug the ice cream machine before cleaning or servicing it.</p>
+        <p id="credits">Page created at <xref href="http://www.vt.edu" format="html"
+                scope="external">Virginia Tech</xref>. </p>
+    </conbody>
+</concept>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/map.dtd">
+<map title="Ice Cream">
+    <topicmeta>
+        <author>Michael Lopez</author>
+        <copyright>
+            <copyryear year="2011"/>
+            <copyrholder>Ice Makers</copyrholder>
+        </copyright>
+    </topicmeta>
+    <topicref href="welcome.xml" navtitle="Welcome" locktitle="yes"/>
+    <topicref href="clean.xml" navtitle="Clean" locktitle="yes"/>
+    <topicref href="fix.xml" navtitle="Fix" locktitle="yes"/>
+</map>
