@@ -49,7 +49,7 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 
 4. Set up DITA_HOME environment variable to point to DITA-OT installation directory: <code>export DITA_HOME=&lt;DITA-OT_dir&gt;</code>
 
-5. To use the <code>dita</code> command anywhere, set up your environment variable: <code>export $PATH='$DITA_HOME/dita-ot-2.1.1/bin'</code>
+5. To use the <code>dita</code> command anywhere, set up your environment variable: <code>export PATH="${PATH}:/home/lingeringcode/dita-ot-2.1.1/bin"</code>
 
 6. Test the DITA-OT installation with the demo conversions.
 
