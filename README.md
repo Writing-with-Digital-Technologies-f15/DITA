@@ -59,20 +59,20 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 **Command for <code>dita</code> command help**:
 
 <pre>
-:~/dita-ot-2.1.1$ dita --help
+username@computername:~/dita-ot-2.1.1$ dita --help
 </pre>
 
 **Create an HTML5 site**:
 
 <pre>
-:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
+username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
   -o 'projects/css-projects/ex-understanding-css' \
 </pre>
 
 **Create an HTML5 site with a custom CSS file**:
 
 <pre>
-:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
+username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
   -o 'projects/css-projects/ex-understanding-css' \
   -Dargs.cssroot='projects/css-projects/shared-assets' \
   -Dargs.css='${cssroot}/web-css-grids.css' \
