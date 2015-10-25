@@ -62,6 +62,16 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 username@computername:~/dita-ot-2.1.1$ dita --help
 </pre>
 
+<pre>
+/* DITA options and arguments */
+
+-f == dita output format
+-i == dita input map file
+-o == dita output directory
+-D&lt;property&gt;=&lt;value&gt; == add custom args 
+    with particular values to dita transformation
+</pre>
+
 **Create an HTML5 site**:
 
 <pre>
@@ -80,3 +90,9 @@ username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/u
   -Dargs.copycss='yes'
 </pre>
 
+**Create a PDF**:
+
+<pre>
+username@computername:~/dita-ot-2.1.1$ dita -f pdf -i 'projects/css-projects/understanding_css.ditamap' \
+  -o 'projects/css-projects/ex-understanding-css' \
+</pre>
