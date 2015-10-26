@@ -5,7 +5,7 @@ Repo for student [reusable content projects](http://4662wf15.clindgrencv.com/#re
 ## Required Tools
 
 1. Text editor (with syntax highlighting)
-2. [Java JDK 7+]()
+2. [Java JDK 7+](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 3. [DITA 1.2 Specifications](http://docs.oasis-open.org/dita/v1.2/spec/DITA1.2-spec.html)
 4. [DITA Open Toolkit 2.1.1](http://www.dita-ot.org/2.1/)
 
