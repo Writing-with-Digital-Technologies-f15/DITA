@@ -23,9 +23,9 @@ Before using the DITA-OT, be sure to properly set it up on your computer: [http:
 
 Linux and Mac OS use the Terminal command-line interface, while Windows uses the shell command-line interface. As noted on the DITA-OT site, the toolkit is a command-line tool with no GUI. If you are unfamiliar with how to use the terminal (Linux / Mac OS) or shell (Windows), here is how to locate and open it on your computer.
 
-**Mac OS**: On Mac, look under Utilities and open the "Terminal." Read this [introduction to the terminal](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) blog post for basic terminal commands.
+**Mac OS**: On Mac, look under Utilities and open the "Terminal." Read this [introduction to the terminal](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) blog post to learn some basic terminal commands.
 
-**Windows**: On Windows, search for the cmd.exe file or "Command Prompt" and create a shortcut to it within a directory of your choice (e.g., Desktop).
+**Windows**: On Windows, search for the cmd.exe file or "Command Prompt" and create a shortcut to it within a directory of your choice (e.g., Desktop). Read this [introduction to the Windows shell](http://www.computerhope.com/issues/chusedos.htm) to learn some basic commands.
 
 ###2. Java Installation
 
