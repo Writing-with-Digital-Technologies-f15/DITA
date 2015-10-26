@@ -33,10 +33,7 @@ Check to see if Java has been installed on your computer by opening up the termi
 
 1. Type <code>java -version</code>
 2. If the output indicates that you have Java JDK (7+), then continue to task #3: Downloading and installing the DITA OT. If not, go to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and follow the installation instructions for your particular operating system: [Windows](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#CHDEBCCJ), [Mac OS X](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG), [Linux](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFGGEFG)
-
-####Setting PATH environment variables
-
-For Windows, see the [Java documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#BABGDJFH)
+3. After installing Java, set the PATH environment variable. For Windows, see the [Java documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#BABGDJFH)
 
 ###3. Downloading and installing the DITA OT
 
@@ -69,7 +66,11 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 6. Test the DITA-OT installation with the demo conversions.
 
 
-## Sample DITA Commands
+## Building DITA Transformations
+
+See the DITA-OT user guide about how to generate output: [http://www.dita-ot.org/2.1/getting-started/using-dita-command.html](http://www.dita-ot.org/2.1/getting-started/using-dita-command.html)
+
+### Sample DITA Commands
 
 **Command for <code>dita</code> command help**:
 
@@ -91,14 +92,14 @@ username@computername:~/dita-ot-2.1.1$ dita --help
 
 <pre>
 username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
-  -o 'projects/css-projects/ex-understanding-css' \
+  -o 'projects/css-projects/out/html5/ex-understanding-css' \
 </pre>
 
 **Create an HTML5 site with a custom CSS file**:
 
 <pre>
 username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
-  -o 'projects/css-projects/ex-understanding-css' \
+  -o 'projects/css-projects/out/html5/ex-understanding-css' \
   -Dargs.cssroot='projects/css-projects/shared-assets' \
   -Dargs.css='${cssroot}/web-css-grids.css' \
   -Dargs.csspath='css' \
@@ -109,5 +110,5 @@ username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/u
 
 <pre>
 username@computername:~/dita-ot-2.1.1$ dita -f pdf -i 'projects/css-projects/understanding_css.ditamap' \
-  -o 'projects/css-projects/ex-understanding-css' \
+  -o 'projects/css-projects/out/html5/ex-understanding-css' \
 </pre>
