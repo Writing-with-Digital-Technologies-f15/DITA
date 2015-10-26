@@ -47,7 +47,7 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 
 3. Set up DITA_HOME environment variable to point to DITA-OT installation directory: <code>set DITA_HOME=&lt;DITA-OT_dir&gt;</code>
 
-4. Test the DITA-OT installation with the either samples included in the OT, or the basic samples in this repo: <code>DITA/examples</code>.
+4. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
 
 ####OT Installation on Linux or OS X
 
@@ -63,7 +63,7 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 
 5. To use the <code>dita</code> command anywhere, set up your environment variable: <code>export PATH="${PATH}:/home/lingeringcode/dita-ot-2.1.1/bin"</code>
 
-6. Test the DITA-OT installation with the demo conversions.
+6. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
 
 
 ## Building DITA Transformations
