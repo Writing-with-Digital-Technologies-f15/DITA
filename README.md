@@ -32,7 +32,7 @@ Linux and Mac OS use the Terminal command-line interface, while Windows uses the
 Check to see if Java has been installed on your computer by opening up the terminal / shell, and completing the following steps:
 
 1. Type <code>java -version</code>
-2. If the output indicates that you have Java JDK (7+), then continue to task #2: Downloading and installing the DITA OT. If not, go to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and follow the installation instructions for your particular operating system: [Windows](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#CHDEBCCJ), [Mac OS X](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG), [Linux](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFGGEFG)
+2. If the output indicates that you have Java JDK (7+), then continue to task #3: Downloading and installing the DITA OT. If not, go to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and follow the installation instructions for your particular operating system: [Windows](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#CHDEBCCJ), [Mac OS X](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG), [Linux](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFGGEFG)
 
 ####Setting PATH environment variables
 
