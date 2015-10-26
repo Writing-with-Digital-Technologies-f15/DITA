@@ -14,18 +14,18 @@ Repo for student [reusable content projects](http://4662wf15.clindgrencv.com/#re
 **Installation tasks**
 
 1. Read up on terminal / shell use, if you are not familiar with using the command-line interface.
-2. Verify if Java JDK (version 7+) is installed by running <code>java -version</code> in your terminal / shell. **If installed**, go to task #3. **If not installed**, go to task #1.
+2. Verify if Java JDK (version 7+) is installed by running <code>java -version</code> in your terminal / shell. **If installed**, go to task #3. **If not installed**, go to task #2.
 3. Download and install the DITA Open Toolkit (2.1.1)
 
 Before using the DITA-OT, be sure to properly set it up on your computer: [http://www.dita-ot.org/2.1/getting-started/index.html](http://www.dita-ot.org/2.1/getting-started/index.html). You will need JAVA JDK (version 7+) on your computer prior to setting up the ToolKit.
 
 ###1. Terminal / Shell Use
 
-Linux and Mac OS use the Terminal command-line interface, while Windows uses the shell command-line interface. 
+Linux and Mac OS use the Terminal command-line interface, while Windows uses the shell command-line interface. As noted on the DITA-OT site, the toolkit is a command-line tool with no GUI. If you are unfamiliar with how to use the terminal (Linux / Mac OS) or shell (Windows), here is how to locate and open it on your computer.
 
 **Mac OS**: On Mac, look under Utilities and open the "Terminal." Read this [introduction to the terminal](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) blog post for basic terminal commands.
 
-**Windows**: On Windows, search for the cmd.exe file and create a shortcut to a directory of your choice (Desktop).
+**Windows**: On Windows, search for the cmd.exe file or "Command Prompt" and create a shortcut to it within a directory of your choice (e.g., Desktop).
 
 ###2. Java Installation
 
