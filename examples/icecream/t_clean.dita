@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
 <task id="clean">
-    <title> How to clean the FG-05 machine</title>
-    <shortdesc>This section gives you all the information you need to clean your ice cream
-    machine</shortdesc>
+    <title>How to clean the FG-05 machine</title>
+
+    <shortdesc>
+        This section gives you all the information you need to clean your ice cream machine.
+    </shortdesc>
     <prolog>
-        
         <author type="creator">Michael Lopez</author>
         <copyright>
             <copyryear year="2011"/>
             <copyrholder>Ice Makers</copyrholder>
         </copyright>
-        
     </prolog>
    
     <taskbody>
-        <prereq>In order to clean your machine, you will need the following: <ul>
+        <prereq>In order to clean your machine, you will need the following:
+            <ul>
                 <li>Water</li>
                 <li>Detergent</li>
                 <li>Gloves</li>
                 <li>Dirty machine</li>
-        </ul>
+            </ul>
         </prereq>
         <context>
             Clean the machine only when it's dirty... duh!
@@ -28,11 +29,13 @@
         <steps>
             <step>
                 <cmd>Prepare the machine</cmd>
-                <info> <p conref="welcome.xml#welcome/warning"/></info>
+                <info>
+                    <p conref="welcome.xml#welcome/warning"/>
+                </info>
             </step>
             <step>
                 <cmd>Clean and clean more</cmd>
-                </step>
+            </step>
         </steps>
     </taskbody>
 </task>
