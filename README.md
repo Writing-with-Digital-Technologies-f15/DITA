@@ -72,7 +72,7 @@ See the DITA-OT user guide about how to generate output: [http://www.dita-ot.org
 
 ### Sample DITA Commands
 
-**Command for <code>dita</code> command help**:
+**See the <code>dita</code> command help**:
 
 <pre>
 username@computername:~/dita-ot-2.1.1$ dita --help
