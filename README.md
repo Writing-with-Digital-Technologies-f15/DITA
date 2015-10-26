@@ -88,6 +88,13 @@ username@computername:~/dita-ot-2.1.1$ dita --help
     with particular values to dita transformation
 </pre>
 
+**Create a PDF**:
+
+<pre>
+username@computername:~/dita-ot-2.1.1$ dita -f pdf -i 'projects/css-projects/understanding_css.ditamap' \
+  -o 'projects/css-projects/out/pdf/ex-understanding-css' \
+</pre>
+
 **Create an HTML5 site**:
 
 <pre>
