@@ -8,7 +8,7 @@
             <copyrholder>Ice Makers</copyrholder>
         </copyright>
     </topicmeta>
-    <topicref href="welcome.xml" navtitle="Welcome" locktitle="yes"/>
-    <topicref href="clean.xml" navtitle="Clean" locktitle="yes"/>
-    <topicref href="fix.xml" navtitle="Fix" locktitle="yes"/>
+    <topicref href="c_welcome.dita" navtitle="Welcome" locktitle="yes"/>
+    <topicref href="t_clean.dita" navtitle="Clean" locktitle="yes"/>
+    <topicref href="t_fix.dita" navtitle="Fix" locktitle="yes"/>
 </map>
