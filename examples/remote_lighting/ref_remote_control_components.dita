@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ref_remote_control_components" xml:lang="en-us">
+  <title>Remote Control Components</title>
+  <shortdesc>The remote control has components that allow you to program and operate the light bulbs
+    on your lighting network.</shortdesc>
+  <prolog>
+    <author>Kevin Lewis</author>
+    <copyright>
+      <copyryear year="2015"/>
+      <copyrholder>Remote Lighting Enterprises</copyrholder>
+    </copyright>
+  </prolog>
+  <refbody>
+    <section>
+      <fig id="fig_qjp_1vx_3r">
+        <title>Front and back of remote control<image href="_images/remote_control_callouts.png"
+            id="image_svq_2vx_3r"/></title>
+      </fig>
+    </section>
+    <properties id="properties_ygc_svx_3r">
+      <prophead>
+        <proptypehd>#</proptypehd>
+        <propvaluehd>Component</propvaluehd>
+        <propdeschd>Description</propdeschd>
+      </prophead>
+      <property>
+        <proptype>1</proptype>
+        <propvalue>Power button indicator</propvalue>
+        <propdesc>Indicator that lights or flashes during different activities with the remote
+          control. Indicators include:<ul id="ul_gy4_qwx_3r">
+            <li>Green: Power on/off or dimmer command was successfully sent to the selected lighting
+              group(s).</li>
+            <li>Red: Power on/off or dimmer command failed. Indicator remains red for 3
+              seconds.</li>
+            <li>Amber: Batteries are running low. Indicator flashes amber periodically.</li>
+          </ul></propdesc>
+      </property>
+      <property>
+        <proptype>2</proptype>
+        <propvalue>Power button</propvalue>
+        <propdesc>Button that you press to turn on or off the lights in the selected lighting
+          group(s). Lights turn on to the previous dimming level.<note>To turn on/off all network
+            lights, regardless of lighting group, press and hold the power button for 3 seconds
+            without first pressing the lighting group number button.</note></propdesc>
+      </property>
+      <property>
+        <proptype>3</proptype>
+        <propvalue>Dimmer control</propvalue>
+        <propdesc>Control that you press and hold to dim or brighten the lights in the selected
+          lighting group(s). You do not have to press the power button first.</propdesc>
+      </property>
+      <property>
+        <proptype>4</proptype>
+        <propvalue>Lighting group number indicator</propvalue>
+        <propdesc>Indicator that lights or flashes during different activities with the
+          corresponding lighting group. Indicators include:<ul id="ul_a4d_5zx_3r">
+            <li>Green: Selected lighting group is activated for you to turn on/off, dim, or program.
+              The lighting group remains activated (indicator remains green) for 5 seconds if you
+              take no subsequent action.</li>
+            <li>Red: Lighting group was not activated for you to take action. Indicator remains red
+              for 3 seconds.</li>
+          </ul></propdesc>
+      </property>
+      <property>
+        <proptype>5</proptype>
+        <propvalue>Group number button</propvalue>
+        <propdesc>Buttons that you press to select a corresponding lighting group to operate. Also
+          use these buttons to program lights into the lighting group.<note type="caution">Do not
+            press and hold for longer than 4 seconds unless you are programming a lighting
+            group.</note></propdesc>
+      </property>
+      <property>
+        <proptype>6</proptype>
+        <propvalue>Battery compartment</propvalue>
+        <propdesc>Compartment on the back that holds 2 AA batteries to power the remote control.
+          When batteries run low, the indicator light on the power button periodically flashes
+          amber.</propdesc>
+      </property>
+      <property>
+        <proptype>7</proptype>
+        <propvalue>Reset button</propvalue>
+        <propdesc>Button that you press to manage the remote control as follows:<ul
+            id="ul_sht_1jy_3r">
+            <li>Press and release 3 times to connect the remote control to a lighting network that
+              already exists (for example, if you are replacing a remote control).</li>
+            <li>Press and hold for 10 seconds to reset the remote control and all lighting group
+              programming on it.</li>
+          </ul><note type="warning">If you reset the remote control, you must reprogram all lighting
+            groups on it.</note></propdesc>
+      </property>
+    </properties>
+  </refbody>
+</reference>

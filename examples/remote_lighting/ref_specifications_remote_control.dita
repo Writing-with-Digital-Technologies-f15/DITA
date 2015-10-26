@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ref_specifications_remote_control" xml:lang="en-us">
+  <title>Remote Control Specifications</title>
+  <shortdesc>Specifications describing the electronics and technology inside the remote
+    control.</shortdesc>
+  <prolog>
+    <author>Kevin Lewis</author>
+    <copyright>
+      <copyryear year="2015"/>
+      <copyrholder>Remote Lighting Enterprises</copyrholder>
+    </copyright>
+  </prolog>
+  <refbody>
+    <simpletable id="simpletable_zzc_hry_3r">
+      <sthead>
+        <stentry>Feature</stentry>
+        <stentry>Specification</stentry>
+      </sthead>
+      <strow>
+        <stentry>Power Source</stentry>
+        <stentry>(2) AA Batteries 1.5V</stentry>
+      </strow>
+      <strow>
+        <stentry>Radio</stentry>
+        <stentry>IEEE 802.15.4 / Jennet IP / 2.4GHz</stentry>
+      </strow>
+      <strow>
+        <stentry>Range</stentry>
+        <stentry>>40m (>130ft)</stentry>
+      </strow>
+      <strow>
+        <stentry>Max. Lamps</stentry>
+        <stentry>250</stentry>
+      </strow>
+      <strow>
+        <stentry>Groups</stentry>
+        <stentry>4 + All</stentry>
+      </strow>
+      <strow>
+        <stentry>Indicators</stentry>
+        <stentry>LED Status Indicators and Group Selection Indicators</stentry>
+      </strow>
+      <strow>
+        <stentry>Lifetime</stentry>
+        <stentry>>18 Months with Alkaline Batteries</stentry>
+      </strow>
+      <strow>
+        <stentry>Operating Environment</stentry>
+        <stentry>0° to 50°C (32° to 122°F) / 5-95% RH / IP60</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

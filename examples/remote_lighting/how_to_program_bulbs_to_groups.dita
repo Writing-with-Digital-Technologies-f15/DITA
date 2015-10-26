@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_program_bulbs_to_groups" xml:lang="en-us">
+    <title>Programming Light Bulbs to a Lighting Group</title>
+    <shortdesc>You can program one or more light bulbs to a lighting group to operate that group
+        with your remote control.</shortdesc>
+    <prolog>
+        <author>Kevin Lewis</author>
+        <copyright>
+            <copyryear year="2015"/>
+            <copyrholder>Remote Lighting Enterprises</copyrholder>
+        </copyright>
+        <metadata>
+            <keywords>
+                <indexterm>lighting group<indexterm>programming for light
+                    bulbs</indexterm></indexterm>
+                <indexterm>programming a lighting group</indexterm>
+                <indexterm>light bulbs<indexterm>programming to lighting
+                    group</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Your remote control can manage up to 250 network light bulbs on the same lighting
+                network. When you add a light bulb to the network, you can program it to one or more
+                lighting groups. You must assign a light bulb to at least one lighting group to
+                operate that light bulb.<note>A network light bulb that is not programmed to a
+                    lighting group will still operate when controlling all network light bulbs from
+                    the remote control.</note></p>
+        </context>
+        <steps>
+            <stepsection>To program light bulbs to a lighting group:</stepsection>
+            <step>
+                <cmd>Make sure your remote control is in range of the light bulbs you are
+                    adding.</cmd>
+            </step>
+            <step id="step_if_bulb_new">
+                <cmd>If a network light bulb is new, you must install it by performing the following
+                    steps:</cmd>
+                <substeps id="substeps_nt1_k44_kr">
+                    <substep>
+                        <cmd>Make sure power to the fixture where you are installing the light bulb
+                            is turned OFF.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove any existing light bulb from the light fixture.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Install the network light bulb into the light fixture as you would any
+                            standard light bulb.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Turn power to the light fixture on.</cmd>
+                        <stepresult>The light bulb begins to brighten and dim while finding the
+                            remote control’s network.</stepresult>
+                    </substep>
+                    <substep>
+                        <cmd>Repeat Step <xref
+                                href="#how_to_program_bulbs_to_groups/step_if_bulb_new"
+                                format="dita"/> for each new network light bulb.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Turn power on to the fixtures containing network light bulbs you want added to
+                    the light group.</cmd>
+            </step>
+            <step id="step_turn_power_off">
+                <cmd>Turn power off to the fixtures containing light bulbs you do not want added to
+                    the light group. </cmd>
+            </step>
+            <step>
+                <cmd>On the remote control, press and hold the desired lighting group button for 5
+                    seconds.</cmd>
+                <stepresult>The button indicator for the selected lighting group flashes green while
+                    the light bulb(s) are added to the group. If the indicator flashes red, the
+                    lighting group was not activated and you must try again. Light flashes red for 3
+                    seconds if programming fails.</stepresult>
+            </step>
+            <step>
+                <cmd>Leave the light fixture switches ON so that power is available when using your
+                    remote control to turn the light bulbs on and off. Also remember to turn on any
+                    excluded fixtures that you turned off in Step <xref
+                        href="#how_to_program_bulbs_to_groups/step_turn_power_off" format="dita"
+                    />.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

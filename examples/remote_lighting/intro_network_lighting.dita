@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro_network_lighting" xml:lang="en-us">
+ <title>Basic Concepts of Network Lighting</title>
+ <shortdesc>You can network LED light bulbs together to operate wirelessly from a remote
+  control.</shortdesc>
+ <prolog>
+  <author>Kevin Lewis</author>
+  <copyright>
+   <copyryear year="2015"/>
+   <copyrholder>Remote Lighting Enterprises</copyrholder>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>Network light bulbs work with your light fixtures the same way as standard light bulbs. They
+   are different, however, in a couple of ways:<ul id="ul_iq3_2wp_3r">
+    <li>The lighting element in the light bulb uses energy-efficient LED technology.</li>
+    <li>The light bulb includes wireless technology that allows the light bulb to connect to a
+     network and be managed remotely.</li>
+   </ul></p>
+  <p>Because the light bulbs can be connected to a network, you have greater flexibility in how you
+   use them.</p>
+  <example>
+   <title>Examples</title>
+   <ul id="ul_o3m_dxf_jr">
+    <li>You can program your lighting network so that when you press a button upon arriving home, an
+     entryway and a hallway light turn on. </li>
+    <li>When you go to bed, your remote control can turn off all lights on the network.</li>
+   </ul>
+  </example>
+ </conbody>
+ <related-links>
+  <link href="intro_max_number_bulbs.dita#intro_max_number_bulbs" scope="local"/>
+  <link href="intro_low_power_networking.dita#intro_low_power_networking" scope="local"/>
+ </related-links>
+</concept>

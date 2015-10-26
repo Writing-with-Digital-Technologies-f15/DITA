@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ref_specifications_led_bulb" xml:lang="en-us">
+  <title>LED Light Bulb Specifications</title>
+  <shortdesc>Specifications describing the electronics and technology inside the LED light
+    bulb.</shortdesc>
+  <prolog>
+    <author>Kevin Lewis</author>
+    <copyright>
+      <copyryear year="2015"/>
+      <copyrholder>Remote Lighting Enterprises</copyrholder>
+    </copyright>
+  </prolog>
+  <refbody>
+    <simpletable id="simpletable_jtm_cty_3r"> 
+      <sthead>
+        <stentry>Feature</stentry>
+        <stentry>Specification</stentry>
+      </sthead>
+      <strow>
+        <stentry>Replacement Lamp Type</stentry>
+        <stentry>A19</stentry>
+      </strow>
+      <strow>
+        <stentry>Manufacturer</stentry>
+        <stentry>Leedarson</stentry>
+      </strow>
+      <strow>
+        <stentry>Voltage</stentry>
+        <stentry>120V/60Hz</stentry>
+      </strow>
+      <strow>
+        <stentry>Socket</stentry>
+        <stentry>E26</stentry>
+      </strow>
+      <strow>
+        <stentry>Radio</stentry>
+        <stentry>IEEE 802.15.4 / 6LP / Jennet IP or ZLL / 2.4GHz</stentry>
+      </strow>
+      <strow>
+        <stentry>Light Spread</stentry>
+        <stentry>320° (Omnidirectional)</stentry>
+      </strow>
+      <strow>
+        <stentry>Light Quality</stentry>
+        <stentry>2700K / 80 CRI</stentry>
+      </strow>
+      <strow>
+        <stentry>Lumens</stentry>
+        <stentry>470 Lumen (60lm/W)</stentry>
+      </strow>
+      <strow>
+        <stentry>Power</stentry>
+        <stentry>7.5W (40W Equivalent)</stentry>
+      </strow>
+      <strow>
+        <stentry>Power Factor</stentry>
+        <stentry>>0.7</stentry>
+      </strow>
+      <strow>
+        <stentry>Lifetime</stentry>
+        <stentry>25,000hrs (based on LM70 @ 25° Ambient</stentry>
+      </strow>
+      <strow>
+        <stentry>Operating Environment</stentry>
+        <stentry>-20° to 40°C (-4° to 104°F) / IP60</stentry>
+      </strow>
+      <strow>
+        <stentry>Energy</stentry>
+        <stentry>Energy Star Certified / EEL Rating: A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

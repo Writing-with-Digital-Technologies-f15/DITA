@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro_product" xml:lang="en-us">
+ <title>Remote Lighting Overview</title>
+ <shortdesc>Remote lighting allows you to operate network-based home lighting through a remote
+  control.</shortdesc>
+ <prolog>
+  <author>Kevin Lewis</author>
+  <copyright>
+   <copyryear year="2015"/>
+   <copyrholder>Remote Lighting Enterprises</copyrholder>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>The Remote Lighting kit includes a wireless smart lighting system that helps make the lighting
+   in your home more energy efficient and easier to manage. The kit includes the following
+   components:</p>
+  <dl>
+   <dlentry>
+    <dt>Remote Control</dt>
+    <dd>Allows you to <xref href="how_to_turn_on_off_dim_lights.dita#how_to_turn_on_off_dim_lights"
+      >power on, power off, and dim groups</xref> of lights on your network.</dd>
+   </dlentry>
+   <dlentry>
+    <dt>LED Light Bulbs</dt>
+    <dd>Energy-efficient network light bulbs you can install into standard light fixtures.</dd>
+   </dlentry>
+  </dl>
+  <image href="_images/kit.png" id="image_xmw_mxy_3r"/>
+ </conbody>
+ <related-links>
+  <link href="intro_network_lighting.dita#intro_network_lighting"/>
+ </related-links>
+</concept>

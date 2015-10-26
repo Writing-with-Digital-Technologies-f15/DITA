@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <topicref href="intro_product.dita"/>
+ <topicref href="ref_remote_control_components.dita"/>
+ <topicref href="intro_network_lighting.dita">
+  <topicref href="intro_max_number_bulbs.dita"/>
+  <topicref href="intro_low_power_networking.dita"/>
+ </topicref>
+ <topicref href="intro_considerations_planning_light_network.dita"/>
+ <topicref href="how_to_program_bulbs_to_groups.dita"/>
+ <topicref href="how_to_turn_on_off_dim_lights.dita"/>
+ <topicref href="ref_specifications_overview.dita">
+  <topicref href="ref_specifications_remote_control.dita"/>
+  <topicref href="ref_specifications_led_bulb.dita"/>
+ </topicref>
+</map>

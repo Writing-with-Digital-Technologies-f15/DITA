@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro_max_number_bulbs" xml:lang="en-us">
+ <title>Maximum Number of Network Light Bulbs</title>
+ <shortdesc>Testing shows you should network no more than 250 light bulbs to maintain reliable
+  performance.</shortdesc>
+ <prolog>
+  <author>Kevin Lewis</author>
+  <copyright>
+   <copyryear year="2015"/>
+   <copyrholder>Remote Lighting Enterprises</copyrholder>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>There is a limit to the number of light bulbs at which the performance of the lighting network
+   begins to decrease. For example, the time it takes a light bulb to respond may start to increase
+   if too many light bulbs are installed on the lighting network. Testing has shown that the
+   lighting network should be limited to a maximum of 250 light bulbs to maintain reliability in
+   performance.</p>
+ </conbody>
+ <related-links>
+  <link href="intro_network_lighting.dita#intro_network_lighting" scope="local"/>
+ </related-links>
+</concept>

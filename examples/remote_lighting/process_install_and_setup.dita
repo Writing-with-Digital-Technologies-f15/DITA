@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="process_install_and_setup" xml:lang="en-us">
+    <title>Installing and Setting up Remote Lighting</title>
+    <shortdesc>Installation and setup includes several sets of tasks from physically installing the
+        light bulbs into fixtures to programming network lighting groups.</shortdesc>
+    <prolog>
+        <author>Kevin Lewis</author>
+        <copyright>
+            <copyryear year="2015"/>
+            <copyrholder>Remote Lighting Enterprises</copyrholder>
+        </copyright>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Installation of your lighting kit includes installing the light bulbs into light
+                fixtures, preparing the remote control, and programming lighting groups.</p>
+        </context>
+        <steps id="steps_xkg_r1x_3r">
+            <step>
+                <cmd>Install light bulbs.</cmd>
+            </step>
+            <step>
+                <cmd>Prepare remote control.</cmd>
+            </step>
+            <step>
+                <cmd>Program lighting groups.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

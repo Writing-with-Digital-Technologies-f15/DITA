@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro_considerations_planning_light_network" xml:lang="en-us">
+ <title>Considerations for Planning Your Lighting Network</title>
+ <shortdesc>Before installing your network lighting, you should plan how you want your lighting
+  network to behave.</shortdesc>
+ <prolog>
+  <author>Kevin Lewis</author>
+  <copyright>
+   <copyryear year="2015"/>
+   <copyrholder>Remote Lighting Enterprises</copyrholder>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>Whether you have only one wireless light bulb or you are replacing your entire home with
+   wireless light bulbs, you should plan how you want the lighting on your network to behave.</p>
+  <example>
+   <title>Examples</title>
+   <ul id="ul_f1x_vwf_jr">
+    <li>If you only have one light bulb you might want to place it in a central location that would
+     be optimum for turning on and off when you are away or arrive home.</li>
+    <li>If you have multiple light bulbs, you might want to set them up in rooms and lighting groups
+     to be able to better manage them across your home.</li>
+   </ul>
+  </example>
+ </conbody>
+</concept>
