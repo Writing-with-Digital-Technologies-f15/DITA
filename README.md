@@ -13,9 +13,7 @@ Repo for student [reusable content projects](http://4662wf15.clindgrencv.com/#re
 
 **Installation tasks**
 1. Read up on terminal / shell use, if you are not familiar with using the command-line interface.
-2. Verify if Java JDK (version 7+) is installed by running <code>java -version</code> in your terminal / shell. 
-	- If installed, go to task #3.
-	- If not installed, go to task #1.
+2. Verify if Java JDK (version 7+) is installed by running <code>java -version</code> in your terminal / shell. **If installed**, go to task #3. **If not installed**, go to task #1.
 3. Download and install the DITA Open Toolkit (2.1.1)
 
 Before using the DITA-OT, be sure to properly set it up on your computer: [http://www.dita-ot.org/2.1/getting-started/index.html](http://www.dita-ot.org/2.1/getting-started/index.html). You will need JAVA JDK (version 7+) on your computer prior to setting up the ToolKit.
