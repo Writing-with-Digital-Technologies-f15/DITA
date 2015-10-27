@@ -86,6 +86,7 @@ username@computername:~/dita-ot-2.1.1$ dita --help
 -o == dita output directory
 -D&lt;property&gt;=&lt;value&gt; == add custom args 
     with particular values to dita transformation
+-filter &lt;file&gt; == filter and flagging file (e.g., .ditaval)
 </pre>
 
 **Create a PDF**:
