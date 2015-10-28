@@ -45,11 +45,9 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 
 2. Unzip the package file into the installation directory of your choice. For example <code>C:&#92;pkg&#92;dita-ot-2.1.1</code>
 
-3. Set up DITA_HOME environment variable to point to DITA-OT installation directory: <code>set DITA_HOME=&lt;DITA-OT_dir&gt;</code>
+3. To use the <code>dita</code> command anywhere, set up your environment variable by following this [tutorial](http://4662wf15.clindgrencv.com/cmdline.html#windows-path-envars).
 
-4. To use the <code>dita</code> command anywhere, set up your environment variable. Refer to the same task to do so with [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#BABGDJFH), but provide the <code>dita-ot-2.1.1/bin</code> URL, instead.
-
-5. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
+4. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
 
 ####OT Installation on Linux or OS X
 
@@ -59,13 +57,9 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 
 2. Extract the package file into a installation directory of your choice. For example, your in your home folder: <code>home/dita-ot-2.1.1</code>, or if you are on a Mac, perhaps your Apps folder.
 
-3. Verify that the environment variable JAVA_HOME has been set: <code>export JAVA_HOME=&lt;JRE_dir&gt;</code>
+3. To use the <code>dita</code> command anywhere, set up your environment variable by following this [tutorial](http://4662wf15.clindgrencv.com/cmdline.html#mac-path-envars).
 
-4. Set up DITA_HOME environment variable to point to DITA-OT installation directory: <code>export DITA_HOME=&lt;DITA-OT_dir&gt;</code>
-
-5. To use the <code>dita</code> command anywhere, set up your environment variable: <code>export PATH="${PATH}:/home/lingeringcode/dita-ot-2.1.1/bin"</code>
-
-6. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
+4. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
 
 
 ## Building DITA Transformations
