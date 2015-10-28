@@ -45,7 +45,7 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 
 2. Unzip the package file into the installation directory of your choice. For example <code>C:&#92;pkg&#92;dita-ot-2.1.1</code>
 
-3. To use the <code>dita</code> command anywhere, set up your environment variable by following this [tutorial](http://4662wf15.clindgrencv.com/cmdline.html#windows-path-envars).
+3. To use the <code>dita</code> command anywhere, set up your environment variable by following this [tutorial](http://4662wf15.clindgrencv.com/cmdline.html#windows-path-envar).
 
 4. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
 
@@ -57,7 +57,7 @@ The following steps guide you to set up the DITA Open Toolkit processing environ
 
 2. Extract the package file into a installation directory of your choice. For example, your in your home folder: <code>home/dita-ot-2.1.1</code>, or if you are on a Mac, perhaps your Apps folder.
 
-3. To use the <code>dita</code> command anywhere, set up your environment variable by following this [tutorial](http://4662wf15.clindgrencv.com/cmdline.html#mac-path-envars).
+3. To use the <code>dita</code> command anywhere, set up your environment variable by following this [tutorial](http://4662wf15.clindgrencv.com/cmdline.html#mac-path-envar).
 
 4. Test the DITA-OT installation with the either samples included in the OT, or the basic topic models in this repo: <code>DITA/examples</code>.
 
