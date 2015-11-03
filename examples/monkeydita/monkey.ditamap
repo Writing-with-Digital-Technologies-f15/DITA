@@ -5,4 +5,6 @@
     <topicref href="c_introduction.dita"/>
     <topicref href="t_feeding.dita"/>
     <topicref href="t_dancing.dita"/>
+    	<topicref href="t_monkey_stretching.dita"/>
+	</topicref>
 </map>
