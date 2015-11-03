@@ -27,6 +27,10 @@ Linux and Mac OS use the Terminal command-line interface, while Windows uses the
 
 **Windows**: On Windows, search for the cmd.exe file or "Command Prompt" and create a shortcut to it within a directory of your choice (e.g., Desktop). Read this [introduction to the Windows shell](http://www.computerhope.com/issues/chusedos.htm) to learn some basic commands.
 
+Also, refer to the Command-Line Help page from the class website: [](). 
+
+![Screen shot of the Command-Line Help web page.](/assets/img/cmd-line-page.png)
+
 ###2. Java Installation
 
 Check to see if Java has been installed on your computer by opening up the terminal / shell, and completing the following steps:
