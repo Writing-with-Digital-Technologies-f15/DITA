@@ -37,7 +37,7 @@ Check to see if Java has been installed on your computer by opening up the termi
 
 1. Type <code>java -version</code>
 2. If the output indicates that you have Java JDK/JRE (7+), then continue to task #3: Downloading and installing the DITA OT. If not, go to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and follow the installation instructions for your particular operating system: [Windows](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#CHDEBCCJ), [Mac OS X](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG), [Linux](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFGGEFG)
-3. After installing Java, set the PATH environment variable. For Windows, see the [Java documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#BABGDJFH)
+3. After installing Java, set the PATH environment variable. See the class "[Command-Line Help](http://4662wf15.clindgrencv.com/cmdline.html)" page for instructions to complete this task.
 
 ###3. Downloading and installing the DITA OT
 
