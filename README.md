@@ -14,7 +14,7 @@ Repo for student [reusable content projects](http://4662wf15.clindgrencv.com/#re
 **Installation tasks**
 
 1. Read up on terminal / shell use, if you are not familiar with using the command-line interface.
-2. Verify if Java JDK (version 7+) is installed by running <code>java -version</code> in your terminal / shell. **If installed**, go to task #3. **If not installed**, go to task #2.
+2. Verify if Java JRE/JDK (version 7+) is installed by running <code>java -version</code> in your terminal / shell. **If installed**, go to task #3. **If not installed**, go to task #2.
 3. Download and install the DITA Open Toolkit (2.1.1)
 
 Before using the DITA-OT, be sure to properly set it up on your computer: [http://www.dita-ot.org/2.1/getting-started/index.html](http://www.dita-ot.org/2.1/getting-started/index.html). You will need JAVA JDK (version 7+) on your computer prior to setting up the ToolKit.
@@ -36,7 +36,7 @@ Also, refer to the Command-Line Help page within the class website: [http://4662
 Check to see if Java has been installed on your computer by opening up the terminal / shell, and completing the following steps:
 
 1. Type <code>java -version</code>
-2. If the output indicates that you have Java JDK (7+), then continue to task #3: Downloading and installing the DITA OT. If not, go to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and follow the installation instructions for your particular operating system: [Windows](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#CHDEBCCJ), [Mac OS X](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG), [Linux](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFGGEFG)
+2. If the output indicates that you have Java JDK/JRE (7+), then continue to task #3: Downloading and installing the DITA OT. If not, go to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and follow the installation instructions for your particular operating system: [Windows](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#CHDEBCCJ), [Mac OS X](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG), [Linux](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFGGEFG)
 3. After installing Java, set the PATH environment variable. For Windows, see the [Java documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html#BABGDJFH)
 
 ###3. Downloading and installing the DITA OT
