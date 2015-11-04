@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd" []>
+<task id="publishing-a-post-on-github-through-prose.io">
+<title>Publishing a post on GitHub through prose.io</title>
+<shortdesc>
+  This document instructs on how to publish a post to the WRIT 4662W Responses repository on GitHub.com using prose.io
+</shortdesc>
+
+<taskbody>
+<context>
+  <p>To accomplish this goal you will need to:</p>
+  <ul>
+    <li>Have access to a computer with an internet connection</li>
+    <li>Create a GitHub account</li>
+    <li>Authorize prose.io to post to GitHub</li>
+    <li>Write the post and submit it</li>
+  </ul>
+</context>
+  <steps>
+    <step>
+      <cmd>Navigate to the prose.io webpage.</cmd>
+    </step>
+    <step>
+      <cmd>Click the "Authorize on GitHub" button.</cmd>
+    </step>
+    <step>
+      <cmd>Find "responses" from the list of repositories and click it.</cmd>
+    </step>
+    <step>
+      <cmd>Access your team's folder for that week.</cmd>
+      <substeps>
+        <substep>
+        <cmd>Click on the folder that corresponds with the current week in the semester.</cmd>
+      </substep>
+      <substep>
+        <cmd>Click on the folder that corresponds with your team's number.</cmd>
+      </substep>
+      </substeps>
+    </step>
+    <step>
+      <cmd>Click the "New File" button.</cmd>
+    </step>
+    <step>
+    <cmd>Write the post.</cmd>
+    <substeps>
+      <substep>
+  <cmd>Type a name for the post in the space at the page's top.</cmd>
+</substep>
+<substep>
+  <cmd>Write in the main body of text.</cmd>
+</substep>
+<substep>
+  <cmd>Use the menu at the top to create headings, link images, create bolded text, etc.</cmd>
+</substep>
+    </substeps>
+  </step>
+  <step>
+  <cmd>Publish the post to GitHub.</cmd>
+  <substeps>
+    <substep>
+    <cmd>Click the "Save" button.</cmd>
+  </substep>
+  <substep>
+    <cmd>Write some text describing your post in the smaller text box.</cmd>
+  </substep>
+  <substep>
+    <cmd>Click the "Commit" button.</cmd>
+  </substep>
+  </substeps>
+</step>
+</steps>
+</taskbody>
+</task>
