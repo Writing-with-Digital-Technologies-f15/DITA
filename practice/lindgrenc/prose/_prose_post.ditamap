@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  The problem from class:
+    - This: "-//OASIS//DTD DITA Task//EN"
+    - Shoulda been this: "-//OASIS//DTD DITA Map//EN"
+
+    A humbling experience to show the potential 
+    consequences of copy and pasting practices!! ;-)
+ -->
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
 
+<!-- 
+  Be sure to add id attributes to your parent tags:
+    - <map>, <task>, and <reference>
+
+  Check your DITA Best Practices book for, well,
+  "best practices"
+-->
 <map id="using-prose-io-in-writ-4662w">
-	<title>Using Prose.io in WRIT 4662w</title>
-	<topicref href="t_posting_response.dita" />
+  <title>Using Prose.io in WRIT 4662w</title>
+  <topicref href="t_posting_response.dita" />
 </map>
