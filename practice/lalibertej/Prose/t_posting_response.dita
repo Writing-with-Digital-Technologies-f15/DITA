@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id"posting-response">
+
+	<title>Creating a Prose.io post</title>
+	<shortdesc>
+		Insert short description here
+	</shortdesc>
+
+	<taskbody>
+		<context>
+			<p>
+				Prose.io is a content editor that can be used to post in Github repositories. This task requires the user to have already set up a Github account.
+			</p>
+		</context>
+		<steps>
+			<step>
+				<cmd>
+					Enter Prose.io into your browser's URL address bar.
+				</cmd>
+				<stepresult>
+					The Prose.io website will prompt you to "Authorize on Github"
+				</stepresult>
+			</step>
+			<step>
+				<cmd>
+					Select the "Authorize on Github" button and log in to your Github account.
+				</cmd>
+				<info>
+				</info>
+			</step>
+			<step>
+				<cmd>
+					In Prose.io, navigate to the folder you'd like to post inside.
+				</cmd>
+			</step>
+		</steps>
+	</taskbody>
+
+
+</task>
