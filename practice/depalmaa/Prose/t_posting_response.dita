@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<! DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.
+V1_2/dtd/technicalContent/dtd/task.dtd">
+<task>
+<title> Posting a Prose.io Response </title>
+	<shortdesc>
+		insert short description right hereee
+	</shortdesc>
+
+<taskbody>
+<content>
+<P> Prerequisite: Access a computer with an internet connection and create a GitHub account that has access to the Writing with Digital Technologies class repository.
+</p>
+</content>
+<steps>
+<step>
+<cmd>
+Go to Prose.io 
+</cmd>
+</step>
+<step>
+<cmd>
+Authorize on Github
+</cmd>
+</step>
+<step>
+<cmd>
+select the responses repository =>select week (ie: week 9)==> select team number (ie: team 4) 
+</cmd>
+</step>
+
+</steps>
+</taskbody>
+</task>
+
+
+
+</taskbody>

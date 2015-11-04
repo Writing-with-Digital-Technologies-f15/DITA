@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd" []>
+<task id="prose">
+  <title>post in prose</title>
+  <shortdesc>posting in prose.io</shortdesc>
+  <taskbody>
+    <steps>
+            <step>
+                <cmd>Open your internet browser</cmd>
+            </step>
+            <step>
+                <cmd>Log into github.com</cmd>
+            </step>
+            <step>
+                <cmd>Authorize Prose.io with your GitHub credentials</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to appropriate directory</cmd>
+            </step>
+            <step>
+                <cmd>create post and put in content</cmd>
+            </step>
+            <step>
+                <cmd>save post</cmd>
+            </step>
+            <step>
+                <cmd>Click to commit file changes to GitHub</cmd>
+            </step>
+        </steps>
+  </taskbody>
+</task>
