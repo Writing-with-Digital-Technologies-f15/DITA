@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="post">
+<title>Posting a Prose.io Response</title>
+<shortdesc>
+	How to post a prose.io response to GitHub
+</shortdesc>
+
+<taskbody>
+	<context>
+		<p>This task will allow you to write a Markdown post on GitHub using Prose.io.</p>
+	</context>
+	<steps>
+		<step>
+			<cmd>
+				Login to Github with your account.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Authorize startup of Prose.io.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Select the desired repository and location for your post.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Click on the green box that says “new file”.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Compose your post.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Select filename path from top of page and provide a filename.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Click disk icon on right side of page.  Describe the changes you made in the box that appears. Hit commit to save your post.
+			</cmd>
+		</step>
+	</steps>
+</taskbody>
+</task>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+
+<reference id="post">
+<title>Writing with Digital Technologies Repositories </title>
+<shortdesc>
+	Reference to the various class repositories
+</shortdesc>
+<refbody>
+    <section>
+
+			<title>
+				Available Repositories
+			</title>
+		<table frame="all">
+		<tgroup cols="2">
+<colspec colname="col1" colwidth="1*"/>
+<colspec colname="col2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top">Repository</entry>
+<entry valign="top">Purpose</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1">Responses</entry>
+<entry colname="col2">Repo for weekly writing assignments</entry>
+</row>
+<row>
+<entry colname="col1">DITA</entry>
+<entry colname="col2">Repo for student reusable content projects, writing with DITA</entry>
+</row>
+<row>
+<entry colname="col1">historicizing</entry>
+<entry colname="col2">Repo for the historicizing projects</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+	</section>
+  </refbody>
+</reference>

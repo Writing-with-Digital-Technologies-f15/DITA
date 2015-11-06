@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="github">
+<title>Understanding Github</title>
+<shortdesc>
+	A brief explanation of GitHub
+</shortdesc>
+
+    <conbody>
+		<p>GitHub is a service and tool located at github.com. This service provides a place to upload computer files and keeps a history of the file’s changes. It is commonly used to store computer programs, but can also be used to store text and other documents. It is a popular service, used by over 4.5 million.</p>
+		<p>GitHub is often used for group collaboration. GitHub allows other people to view the material being worked on, even if they cannot make changes to the files. GitHub also allows changes one user makes to a file to be easily passed to different user. If one user makes a change that another user dislikes, the change can be easily be undone by utilizing the history GitHub stores of each file.</p>
+	 </conbody>
+</concept>
