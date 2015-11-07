@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DIT DITA
-Concept//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd>
+Concept//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<concept id="Prose-and-Github">
+	<title>Prose and Github</title>
+		<shortdesc>What you need to know about how Prose works with Github.</shortdesc>
+		
+		<conbody>
+			<p>Everything posted onto Prose.io, if that account is connected to a repo on Github for
+		the other members of your group to view and make comments on.every time they make a change, they 
+		are effectively submitting a new document into Github. They will still be then able to see past 
+		versions of their document on the site, but any comments made on the previous submissions will be 
+		left with that version of the document.</p>
+			<p>Here are some other reasons you may not see what you expected on Github.</p>
+			<ul>
+				<li>If there is an extended line of content which appears as though it was supposed
+				to be a paragraph, that paragraph may not be aligned properly in the Prose file.</li>
+				<li>Headings work by using the #, three being an H2 and two being an H3.</li>
+				<li>Every so often it may be necessary to Authorize Your Account on Github.</li>
+			</ul>
+		</conbody>
+</concept>
+				

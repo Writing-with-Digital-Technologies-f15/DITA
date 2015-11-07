@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA
-Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd>
+Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
 <task id="Prose-writing">
 	<title>Getting Your Thoughts Out There</title>
@@ -17,7 +17,16 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd>
         			<cmd>Get a Github account</cmd>
       			</step>
       			<step>
-        			<cmd>Connect your account to your Github repo</cmd>
+        			<cmd>Connect your account to your Github repo.</cmd>
+      			</step>
+			<step>
+        			<cmd>Open the repo folder which you are asked to post to.</cmd>
+      			</step>
+			<step>
+        			<cmd>Begin a new file, enter your content.</cmd>
+      			</step>
+			<step>
+        			<cmd>Commit your content by naming in the file name bar and click save.</cmd>
       			</step>
 		</steps>
 	</taskbody>

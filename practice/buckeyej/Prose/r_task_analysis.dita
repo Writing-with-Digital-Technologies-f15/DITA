@@ -1,3 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA
-Reference//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd>
+Reference//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+
+<reference id="Prose.io-language">
+	<refbody>
+		<title>Prose.io Language</title>
+			<section>
+	    <properties id="toolbar-language-in-Prose">
+      		<prophead>
+        		<proptypehd>Use</proptypehd>
+       			 <propvaluehd>Method</propvaluehd>
+       		 	<propdeschd>Description</propdeschd>
+      		</prophead>
+      		<property>
+			<proptype>Save</proptype>
+        		<propvalue>Disk Button on Right-hand column</propvalue>
+        	<propdesc>The button will have a highlighted corner when a change has been made which is eligible to be saved.
+      		</propdesc>
+		</property>
+      		<property>
+        	<proptype>Headings</proptype>
+        	<propvalue>#, ##, ###</propvalue>
+        	<propdesc>The more symbols preceding a heading, the smaller it will be</propdesc>
+      		</property>
+      		<property>
+        	<proptype>Link</proptype>
+        	<propvalue>Hyperlink Button on the toolbar</propvalue>
+        	<propdesc>Specify the site to which the highlighted text will link</propdesc>
+      		</property>
+	</properties>
+	</section>
+	</refbody>
+</reference>
