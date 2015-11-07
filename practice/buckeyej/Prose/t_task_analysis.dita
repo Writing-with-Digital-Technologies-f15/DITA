@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA
+Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd>
+
+<task id="Prose-writing">
+	<title>Getting Your Thoughts Out There</title>
+	<shortdesc>
+	A new way to share the discussion among your group.	
+	</shortdesc>
+	
+	<taskbody>
+	<steps>
+      		<step>
+        	<cmd>Sign Up for a Prose.io account</cmd>
+      		</step>
+		<step>
+        	<cmd>Get a Github account</cmd>
+      		</step>
+      		<step>
+        	<cmd>Connect your account to your Github repo</cmd>
+      		</step>
+	</steps>
+	</taskbody>
+</task>
