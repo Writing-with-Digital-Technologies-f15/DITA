@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task>
+  <title>Posting a Prose.io response post</title>
+  <shortdesc>
+    The goal of this task is to post to the WRIT 4662W class on Github repository using Prose.io. The post will be written in Git-flavored markdown. 
+  </shortdesc>
+
+<taskbody>
+  <context>
+   <p>Sequence of tasks to create a .md file</p>
+  </context>
+  <steps>
+    <step>
+      <cmd>Log onto Prose.io</cmd>
+    </step>
+    <step>
+      <cmd>Authorize github account on Prose.io</cmd>
+    </step>
+    <step>
+      <cmd>Navigate to correct WRIT 4662W folder</cmd>
+    </step>
+    <step>
+      <cmd>Create a file</cmd>
+    </step>
+    <step>
+      <cmd>Write text in the file</cmd>
+    </step>
+    <step>
+      <cmd>Make a commit</cmd>
+    </step>
+    <step>
+      <cmd>Check folder by navigating to folder on Github</cmd>
+    </step>
+  </steps>
+</taskbody>
+</task>
