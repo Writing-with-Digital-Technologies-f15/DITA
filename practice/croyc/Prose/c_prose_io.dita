@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="cintro">
+  <title>Concept of Prose.io</title>
+  <shortdesc></shortdesc>
+  <prolog></prolog>
+  
+  <conbody>
+  
+    <p>Concept definition. This document describes posting information on the Prose.io website. Prose.io is one mechanism for posting material to Github. Every time a document is saved, or committed, it represents an entirely new document.</p>
+  
+    <note id="commits">Previous commits can be viewed by clicking on the "parent" number in the white box under the filename.</note>
+	
+  </conbody>
+</concept>

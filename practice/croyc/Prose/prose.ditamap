@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "http://docs.oasis-open.org/dita/v1.2/OS/dtd/map.dtd">
+<map title="Using Prose">
+    <title>Using Prose.io</title>
+    <topicref href= "t_prose_io.dita"/>
+	<topicref href= "c_prose_io.dita"/>
+	<topicref href= "ref_prose_io.dita"/>
+</map>

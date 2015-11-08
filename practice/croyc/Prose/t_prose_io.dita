@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.2/OS/dtd/task.dtd" []>
+<task id="taskId">
+  <title>Proseio Posting</title>
+  <shortdesc>short description</shortdesc>
+  <prolog>
+    
+    <author type="creator">Monkey Isme</author>
+    <copyright>
+      <copyryear year="2011"/>
+      <copyrholder>Monkeys</copyrholder>
+    </copyright>
+    
+  </prolog>
+  <taskbody>
+    <context>
+      <p>may not need this now</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Login to GitHub.</cmd>
+      </step>
+      <step>
+        <cmd>Authorize startup of Prose.io.</cmd>
+      </step>
+      <step>
+        <cmd>Select "responses"	repository.</cmd>
+      </step>
+	  <step>
+		<cmd>Select subfolder for appropriate week.</cmd>
+		</step>
+	  <step>
+	    <cmd>Click on the green box that says "new file".</cmd>
+		</step>
+	 <step>
+	    <cmd>Select text to be posted from the word processor on your computer.</cmd>
+		</step>
+	 <step>
+	    <cmd>Paste text in place of "A New Post" heading.</cmd>
+		</step>
+	 <step>
+	    <cmd>Select filename path at the top of the page.</cmd>
+		</step>
+	 <step>
+	    <cmd>Add your name to the file name.</cmd>
+		</step>
+	 <step>
+	    <cmd>Click disk icon on the right side of the page.</cmd>
+		</step>
+	 <step>
+	    <cmd>Describe the changes you made in the box that appears.</cmd>
+		</step>
+	 <step>
+	    <cmd>Click commit.</cmd>
+		</step>
+    </steps>
+  </taskbody>
+</task>

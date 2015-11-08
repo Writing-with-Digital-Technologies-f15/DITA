@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ref_prose_io" xml:lang="en-us">
+  <title>Prose.io Prerequisites</title>
+  <shortdesc>Items or tasks users need or need to complete before performing this task.</shortdesc>
+  <prolog></prolog>
+  <refbody> <section> <title> Prerequisites</title>
+    <ul>
+		<li> Computer</li>
+		<li> Internet access</li>
+		<li> Web browser</li>
+		<li> Github account</li>
+		<li> Textbooks</li>
+		<li> Syllabus</li>
+	</ul>
+	</section>
+  </refbody>
+</reference>
