@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="prose. io">
+
+<title>What is Prose.io</title>
+
+<shortdesc>
+	This document will explain what prose.io is
+</shortdesc>
+
+    <conbody>
+
+		<p>
+		Prose.io is a content editor for Github.
+		</p>
+		
+		<p>
+		You are able to select what repository to push to to create a new piece of content in a markdown language.
+	
+	    </p>
+	    
+	    <p>
+	    Once within the repository, you can select a folder and subfolder to push your materials to.
+	    </p>
+	    
+	    <p>
+	    The site also includes a tool bar with stylistic tools.
+	    </p>
+	    
+   </conbody>
+</concept>
