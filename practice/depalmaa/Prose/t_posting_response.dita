@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <! DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.
 V1_2/dtd/technicalContent/dtd/task.dtd">
-<task>
+<task id="post">
 <title> Posting a Prose.io Response </title>
 	<shortdesc>
-		insert short description right hereee
+		How to Publish to Github via Prose.io
 	</shortdesc>
 
 <taskbody>
 <content>
-<P> Prerequisite: Access a computer with an internet connection and create a GitHub account that has access to the Writing with Digital Technologies class repository.
+<P> This task will enable you to construct a Github post using Prose.io.
 </p>
+<p>
+You must have: a github account & access to a internet-connected device
 </content>
 <steps>
 <step>
@@ -20,19 +22,34 @@ Go to Prose.io
 </step>
 <step>
 <cmd>
-Authorize on Github
+Authorize on Github with your Github account information
 </cmd>
 </step>
 <step>
 <cmd>
-select the responses repository =>select week (ie: week 9)==> select team number (ie: team 4) 
+Select the responses repository =>select week (ie: week 9)==> select team number (ie: team 4) 
 </cmd>
 </step>
-
+<step>
+<cmd>
+Select "new file"
+</cmd>
+</step>
+<step>
+<cmd>
+Compose post. Use the tools in the bar at the top of the pages to add headings & other stylistic elements. 
+</cmd>
+</step>
+<step>
+<cmd>
+At the top of the page, give your post a descriptive title. Do not delete the ".md"
+</cmd>
+</step>
+<step>
+<cmd>
+Click on the floppy disk icon on the right side of the page to "commit" (post) your work. Add a comment explaining what you've done.
+</cmd>
+</step>
 </steps>
 </taskbody>
 </task>
-
-
-
-</taskbody>
