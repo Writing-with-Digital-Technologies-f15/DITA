@@ -75,11 +75,13 @@ See the DITA-OT user guide about how to generate output: [http://www.dita-ot.org
 **See the <code>dita</code> command help**:
 
 <pre>
-username@computername:~/dita-ot-2.1.1$ dita --help
+## Prints out build command options and arguments
+## in the Terminal window
+dita --help
 </pre>
 
 <pre>
-/* DITA options and arguments */
+## DITA options and arguments
 
 -f == dita output format
 -i == dita input map file
@@ -92,24 +94,24 @@ username@computername:~/dita-ot-2.1.1$ dita --help
 **Create a PDF**:
 
 <pre>
-username@computername:~/dita-ot-2.1.1$ dita -f pdf -i 'projects/css-projects/understanding_css.ditamap' \
-  -o 'projects/css-projects/out/pdf/ex-understanding-css'
+dita -f pdf -i 'path/to/your.ditamap' \
+  -o 'path/to/your/out/pdf/topic-model-name'
 </pre>
 
 **Create an HTML5 site**:
 
 <pre>
-username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
-  -o 'projects/css-projects/out/html5/ex-understanding-css'
+dita -f html5 -i 'path/to/your.ditamap' \
+  -o 'path/to/your/out/html5/topic-model-name'
 </pre>
 
 **Create an HTML5 site with a custom CSS file**:
 
 <pre>
-username@computername:~/dita-ot-2.1.1$ dita -f html5 -i 'projects/css-projects/understanding_css.ditamap' \
-  -o 'projects/css-projects/out/html5/ex-understanding-css' \
-  -Dargs.cssroot='projects/css-projects/shared-assets' \
-  -Dargs.css='${cssroot}/web-css-grids.css' \
+dita -f html5 -i 'path/to/your.ditamap' \
+  -o 'path/to/your/out/html5/topic-model-name'' \
+  -Dargs.cssroot='path/to/the/css/assets/directory' \
+  -Dargs.css='${cssroot}/your-stylesheet.css' \
   -Dargs.csspath='css' \
   -Dargs.copycss='yes'
 </pre>
