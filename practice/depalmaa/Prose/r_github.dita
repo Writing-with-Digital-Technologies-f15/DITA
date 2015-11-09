@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+<reference id="practice reference for 4662">
+
+  <title>Prose.io and Github Perquisite Skills/ Materials </title>
+  
+  <shortdesc>This document provides you with the necessary items and materials for posting to Github via Prose.io.</shortdesc>
+  
+  <refbody>
+   <section>
+
+    <ul>
+		<li> Computer/ Device with Internet Capability (ie: tablet)</li>
+		<li> Access to the Internet</li>
+		<li> Github Account (free to set up)r</li>
+		<li> have either previously composed or planned out the post (not necessary, but will make the process easier)</li>	
+	</ul>
+	</section>
+  </refbody>
+</reference>
