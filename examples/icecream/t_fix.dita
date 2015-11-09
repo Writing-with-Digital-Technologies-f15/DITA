@@ -22,7 +22,7 @@
             <step>
                 <cmd>Open the machine by kicking its right side.</cmd>
                 <info>
-                    <p conref="welcome.xml#welcome/warning"/>
+                    <p conref="c_welcome.dita#welcome/warning"/>
                 </info>
             </step>
             <step>

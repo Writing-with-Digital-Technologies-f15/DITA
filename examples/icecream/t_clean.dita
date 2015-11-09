@@ -30,7 +30,7 @@
             <step>
                 <cmd>Prepare the machine</cmd>
                 <info>
-                    <p conref="welcome.xml#welcome/warning"/>
+                    <p conref="c_welcome.dita#welcome/warning"/>
                 </info>
             </step>
             <step>
