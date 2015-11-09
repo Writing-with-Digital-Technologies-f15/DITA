@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+<map id="prose-topic-map">
+    <title>Manual for WRIT 4662W Prose.io Use</title>
+    <topicref href="t_posting_response.dita"/>
+</map>

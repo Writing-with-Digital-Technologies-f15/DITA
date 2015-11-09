@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
-<task id"posting-response">
+<task id="posting-response">
 
 	<title>Creating a Prose.io post</title>
 	<shortdesc>
@@ -28,6 +28,7 @@
 					Select the "Authorize on Github" button and log in to your Github account.
 				</cmd>
 				<info>
+					Words
 				</info>
 			</step>
 			<step>
