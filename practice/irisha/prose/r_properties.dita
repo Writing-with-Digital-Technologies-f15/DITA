@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+
+<reference id="properties">
+	<title>Prose.io Properties</title>
+	<shortdesc>Description of different Prose.io properties</shortdesc>
+	<refbody>
+		<section>
+			<title>Headers</tite>
+			<p> Number signs (#) are used for headers. The primary header, H1, has one number sign. Subheaders have at least two number signs. The smaller the header, the more number signs it has. </p>
+		</section>
+		<section>
+			<title>Italic Text</title>
+			<p> Italic text is placed inbetween underscores. For exmaple: _This text would be italicized_. </p>
+		</section>
+		<section>
+			<title>Bold Text</title>
+			<p> Bold text in Prose.io is accomplished by having two asteriks on both sides of the text. For example: **This text is bold**.</p>
+		</section>
+	</refbody>
+</reference>
