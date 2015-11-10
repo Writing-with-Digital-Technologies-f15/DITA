@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+
+<reference id="post">
+<title>Buttons Within a Prose.io Folder</title>
+<shortdesc>
+	A description of the different functioning buttons within a Prose.io folder and how to identify them.
+</shortdesc>
+<refbody>
+<section><title>Links</title>
+<p>Most of the words in a Prose.io folder actually link to other either inside or outside folders. For example, in the responses folder for Writ 4662W, the Writing-with-Digital-Technologies-f15 links to all our class repos. 
+Similarly, if you are in a specific week or group folder, "Responses," also near the top, links back to the full Responses repo.</p>
+</section>
+<section><title>Icons</title>
+<p>There are several different icon buttons that you will see. The yellow envelope icon represents another folder that you can enter. 
+The M with an arrow denotes a text post, while a pink "play" triangle symbol in front of a blue rectangle represents an image file. 
+Lastly, the trash can icon to the right of each file means delete. By the text posts there should also be an "Edit" link; you can edit by going into the file as well.</p>
+</section>
+<section><title>History</title>
+<p>At the very right of a Prose.io page is a panel with recent updates to repos that you are a part of. They show either a green or red circle to tell whether you can access them or if they are outdated and no longer able to be opened. 
+If the circle is green, just click on the file name and it will take you right to the file.</p>
+</section>
+</refbody>
+</reference>

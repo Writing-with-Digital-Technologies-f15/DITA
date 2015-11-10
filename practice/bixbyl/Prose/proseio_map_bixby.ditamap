@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="Writing-with-Prose-io">
+	<title>Writing with Prose.io</title>
+	<topicref href="t_posting_response_bixby.dita" />
+	<topicref href="c_proseio_bixby.dita" />
+	<topicref href="r_buttons_bixby.dita" /> 
+</map>

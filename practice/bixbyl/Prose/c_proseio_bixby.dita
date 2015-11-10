@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+<concept id="response">
+<title>Prose.io Program</title>
+<shortdesc>This describes what Prose.io is.</shortdesc>
+<conbody>
+<p>According to the About page on the Prose.io website, it is a "content authoring environment" that you can use to create files that will then appear in Github. It is a straightforward site for developing posts with formatting using html elements so you can write and share coded content on Github.
+In particular, it is a good way to access and create content within group repositories for a number of people to see. It is also a productive way of editing files that are already written.
+</p>
+<p>Prose.io is useful for people who are trying to write or manage a lot of Github content and want to use the web rather than the complex Github desktop window. 
+It can also be beneficial to those who are just learning about coding and want to try new things in a simplistic environment.</p>
+</conbody>
+</concept>
