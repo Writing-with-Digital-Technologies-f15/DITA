@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="github">
+	<title> 
+		What is GitHub? 
+	</title>
+	<shortdesc>
+		A short explanation of what GitHub is.
+	</shortdesc>
+	<conbody>
+		<p>
+			GitHub is a Web-based hosting service that mostly uses code. It offers graphical interface and desktop as well as mobile integration. It provides several collaboration features, such as wikis, for every project. 
+		</p>
+		<p>
+			Users must create an account in order to cotribute content to the site, but anyone can browse and download public repositories. Users with registered accounts can discuss, manage, create repositories, contribute to other repositories, and review changes.
+		</p>
+	</conbody>
+</concept>
