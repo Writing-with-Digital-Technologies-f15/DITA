@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id = "prose">
+	<title> 
+		Create a Prose.io Response Post 
+	</title>
+	<shortdesc> 
+		These steps will show you how to create a text file using Prose.io and saving it to the GitHub class repository. 
+	</shortdesc>
+	<taskbody>
+		<steps>
+			<step>
+				<cmd> Open your internet brwoser. </cmd>
+			</step>
+			<step>
+				<cmd> Log into your github.com account. </cmd>
+			</step>
+			<step>
+				<cmd> Login to prose.io and authenticate with github account. </cmd>
+			</step>
+			<step>
+				<cmd> Navigate to appropriate repository/folder. </cmd>
+			</step>
+			<step>
+				<cmd> Click "new file" and rename file using format: "LastName-FirstInitial-Wk#". </cmd>
+			</step>
+			<step>
+				<cmd> Type text in Github markdown. </cmd>
+			</step>
+			<step>
+				<cmd> Click "save" and "commit" to publish post to Github. </cmd>
+			</step>
+		</steps>
+	</taskbody>
+</task>
