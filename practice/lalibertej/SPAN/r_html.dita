@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ref_remote_control_components" xml:lang="en-us">
+  <title>Important HTML Definitions</title>
+  <shortdesc>HTML code is made up of a variety of components. Semantically meaningful elements can be used one way, while semantically meaningless elements are used another. HTML elements can also include attributes, which work well with CSS formatting.</shortdesc>
+  <refbody>
+  	<table>
+		<tgroup cols="2">
+			<thead>
+				<row>
+				<entry colname="COLSPEC0" valign="top">HTML Component</entry>
+				<entry colname="COLSPEC1" valign="top">Name</entry>
+				</row>
+			</thead>
+			<tbody>
+				<row>
+					<entry>Semantically meaningful element</entry>
+					<entry>19-22 months</entry>
+				</row>
+				<row>
+					<entry>Semantically meaningless element</entry>
+					<entry>15 months</entry>
+				</row>
+				<row>
+					<entry>HTML Attribute plus example</entry>
+					<entry>14-16 months</entry>
+				</row>
+			</tbody>
+		</tgroup>
+	</table>
+  </refbody>
+</reference>

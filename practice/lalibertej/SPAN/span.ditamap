@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+<map id="prose-topic-map">
+    <title>Manual for the SPAN HTML element</title>
+    <topicref href="c_html_css.dita"/>
+    <topicref href="r_html.dita"/>
+</map>
