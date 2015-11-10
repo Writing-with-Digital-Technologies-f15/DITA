@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 <task id="prose">
-  <title>Creating a post with Prose.io</title>
+  <title>Create a post with Prose.io</title>
   <shortdesc>These steps will guide you through the process of creating a text file in GitHub using Prose.io</shortdesc>
   <taskbody>
     <steps>
