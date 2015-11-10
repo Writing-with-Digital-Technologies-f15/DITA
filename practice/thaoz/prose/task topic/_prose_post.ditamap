@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
 
-<map title="Using Prose.io in WRIT 4662W">
-	<title> Using Prose.io in WRIT 4662W</titles>
+<map title="DITA Topic Map">
+	<title> 
+		Using Prose.io in WRIT 4662W
+	</title>
 	<topicref href="t_task_topic.dita"></topicref>
 </map>
