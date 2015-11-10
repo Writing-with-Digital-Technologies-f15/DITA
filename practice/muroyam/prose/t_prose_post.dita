@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd" []>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 <task id="prose">
-  <title>post in prose</title>
-  <shortdesc>posting in prose.io</shortdesc>
+  <title>Creating a post with Prose.io</title>
+  <shortdesc>These steps will guide you through the process of creating a text file in GitHub using Prose.io</shortdesc>
   <taskbody>
     <steps>
             <step>
@@ -12,19 +12,19 @@
                 <cmd>Log into github.com</cmd>
             </step>
             <step>
-                <cmd>Authorize Prose.io with your GitHub credentials</cmd>
+                <cmd>Lot into Prose.io with github authorization</cmd>
             </step>
             <step>
-                <cmd>Navigate to appropriate directory</cmd>
+                <cmd>Navigate to appropriate directory/team folder</cmd>
             </step>
             <step>
-                <cmd>create post and put in content</cmd>
+                <cmd>Click "new file" and compose text in GH markdown</cmd>
             </step>
             <step>
-                <cmd>save post</cmd>
+                <cmd>Rename file using format: "LastName-FirstInitial-Wk#"</cmd>
             </step>
             <step>
-                <cmd>Click to commit file changes to GitHub</cmd>
+                <cmd>Click "save" and "commit" to publish to GitHub</cmd>
             </step>
         </steps>
   </taskbody>
