@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="cintro">
+  <title>Expected Result</title>
+  <shortdesc></shortdesc>
+  <prolog></prolog>
+
+  <conbody>
+
+    <p>Content is published to Github to be viewed by fellow students and instructor for discussion.</p>
+    
+  </conbody>
+</concept>

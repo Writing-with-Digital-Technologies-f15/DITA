@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ref_prose_io" xml:lang="en-us">
+  <title>Prose.io Prerequisites</title>
+  <shortdesc>Tasks needed in order to accomplish posting in Prose.IO</shortdesc>
+  <prolog></prolog>
+  <refbody> <section> <title> What tasks does the user need to perform to accomplish the goal?</title>
+    <ul>
+		<li> Go to prose.io</li>
+		<li> Authenticate prose.io with github account</li>
+		<li> Navigate to appropriate repository/folder</li>
+		<li> Create markdown file and contents</li>
+		<li> Publish file to GitHub</li>
+	</ul>
+	</section>
+  </refbody>
+</reference>
