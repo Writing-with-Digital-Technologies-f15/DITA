@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task>
+	<title>Posting Prose.io response post </title>
+	<shortdesc>
+			Insert my short description here.
+	
+	<shortdesc>
+
+	<taskbody>
+	<steps>
+		<step>
+			<cmd> Log in to GITHUB</cmd>
+		</step>
+		<step>
+			<cmd> Authorize Prose.io </cmd>
+		</step>
+		<step>
+			<cmd> Write a new Post in Prose.io</cmd>
+		</step>
+	</taskbody>
+</task>
