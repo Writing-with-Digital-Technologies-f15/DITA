@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+<concept id="editor">
+    <title>The Prose.io editor</title>
+    <shortdesc>A brief explanation of Prose.io</shortdesc>
+    <conbody>
+        <p>Prose.io is an editor for GitHub. When you authorize Prose.io with your GitHub account, it shows all of your GitHub repositories. When you create or edit a file with Prose.io, all changeds are commited to the directory that you specified. This means that you must have a GitHub Account to use Prose.io, as it does not actually store any files itself.</p>
+        <p>You can think of Prose.io as a text/markdown editor (like the one you'd use on your computer) that takes care of uploading/commiting your files to GitHub for you.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+<reference id="markdown">
+    <title>Basic Markdown Tags</title>
+    <shortdesc>Some basic GitHub Markdown tags to get you started with creating a post in Prose.io</shortdesc>
+    <refbody>
+        <simpletable>
+            <sthead>
+                <stentry>Tag</stentry>
+                <stentry>Notes</stentry>
+            </sthead>
+            <strow>
+                <stentry>#This is an H1</stentry>
+                <stentry>Use for post title</stentry>
+            </strow>
+            <strow>
+                <stentry>##This is an H2</stentry>
+                <stentry>Use for subheads</stentry>
+            </strow>
+            <strow>
+                <stentry>>This is a blockquote</stentry>
+                <stentry>use to mark longer quotes</stentry>
+            </strow>
+            <strow>
+                <stentry>*This text is italic*</stentry>
+                <stentry>Use to reference book titles</stentry>
+            </strow>
+            <strow>
+                <stentry>**This text is bold**</stentry>
+                <stentry>use to emphasize terms</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

@@ -3,4 +3,6 @@
 <map title="DITA Topic Map">
     <title>Posting with Prose.io</title>
     <topicref href="t_prose_post.dita"/>
+    <topicref href="c_editor.dita" />
+    <topicref href="r_markdown.dita" />
 </map>
