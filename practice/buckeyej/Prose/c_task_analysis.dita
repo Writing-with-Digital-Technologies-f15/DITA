@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DIT DITA
-Concept//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" 
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
 
 <concept id="Prose-and-Github">
 	<title>Prose and Github</title>
@@ -16,7 +16,9 @@ Concept//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dt
 			<ul>
 				<li>If there is an extended line of content which appears as though it was supposed
 				to be a paragraph, that paragraph may not be aligned properly in the Prose file.</li>
-				<li>Headings work by using the #, three being an H2 and two being an H3.</li>
+				<li>Headings work by using the #, two being an H2 and three being an H3.</li>
+				<li>Be sure you are abiding by the rest of the Prose language, accessible in the WYSIWYG
+				bar on top of the open file.</li>
 				<li>Every so often it may be necessary to Authorize Your Account on Github.</li>
 			</ul>
 		</conbody>
