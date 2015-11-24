@@ -8,9 +8,7 @@ Save this file within the root DITA folder.
 
 List your group members here. Delete this line.
 
-- 
-- 
-- 
+- [entername]
 
 ## Questions about reuse practices
 
@@ -32,7 +30,7 @@ List your group members here. Delete this line.
 
 Answer the initial 2 questions by using the examples in this repo. Otherwise, use your books to answer the remaining questions. Be sure to integrate page number citations within each response.
 
-### 1. What content is being reused, if any, in each example topic model?
+### 1. What content is being reused, if any, in the example topic models?
 
 
 ### 2. What DITA reuse methods are being used? Write out the particular components with the syntax.
