@@ -34,6 +34,7 @@ Answer the initial 2 questions by using the examples in this repo. Otherwise, us
 
 ### 1. What content is being reused, if any, in the example topic models? What DITA reuse methods are being used? Write out the particular components with the syntax.
 
+ex.: monkey DITA, <code><note conref="c_introduction.dita#cintro/mean"/></code>
 
 ### 2. In your book, list out some general reuse cases in DITA.
 
