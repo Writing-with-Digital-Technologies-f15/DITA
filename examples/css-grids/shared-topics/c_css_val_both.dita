@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="c-val-both" xml:lang="en-us">
+
+  <title>CSS clear: both declaration</title>
+
+  <shortdesc>
+    Enter short description.
+  </shortdesc>
+
+  <conbody>
+    <p>
+      Enter paragraph.
+    </p>
+  </conbody>
+
+</concept>

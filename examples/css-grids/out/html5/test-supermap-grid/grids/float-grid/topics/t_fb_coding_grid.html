@@ -1,0 +1,136 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html lang="en-us">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2015">
+<meta name="DC.rights.owner" content="(C) Copyright 2015">
+<meta name="DC.Type" content="task">
+<meta name="DC.subject" content="HTML, CSS, grids, containing blocks, float">
+<meta name="keywords" content="HTML, CSS, grids, containing blocks, float">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="t-float-grid">
+<meta name="DC.Language" content="en-us">
+<link rel="stylesheet" type="text/css" href="../../../commonltr.css">
+<title>Coding a float-based, responsive grid</title>
+</head>
+<body id="t-float-grid">
+<main role="main"><article role="article" aria-labelledby="ariaid-title1">
+  <h1 class="title topictitle1" id="ariaid-title1">Coding a float-based, responsive grid</h1>
+
+  
+
+  
+
+  <div class="body taskbody">
+
+    <section class="section context">
+      <p class="p">
+        The key to writing a responsive, float-based grid is developing the 2 following structures of containing blocks: 1) initial grid context, and 2) CSS classes devoted to defining column widths within the former element.
+      </p>
+
+    </section>
+
+
+    <p class="li stepsection">Grid context</p><ol><li class="li step stepexpand">
+        <span class="ph cmd">
+          Write a wrapper &lt;div&gt; element with a class named "grid"</span>
+        <div class="itemgroup stepxmp">
+<pre class="pre codeblock">
+&lt;div class="grid"&gt;
+  &lt;!-- 100% wide --&gt;
+&lt;/div&gt;
+</pre>
+
+        </div>
+      </li>
+</ol><p class="li stepsection">Making column widths</p><ol start="2"><li class="li step stepexpand">
+        <span class="ph cmd">
+          In the HTML file, write a testable combination of columns within the containing block <samp class="ph codeph">.grid</samp>.</span>
+        <div class="itemgroup info">
+          The example below presents a common use case, creating a main content block with a sidebar to its right.</div>
+        <div class="itemgroup stepxmp">
+<pre class="pre codeblock">&lt;!-- Example of a common use case --&gt;
+&lt;div class="grid"&gt;
+  &lt;div class="col-2-3"&gt;
+     Main Content
+  &lt;/div&gt;
+  &lt;div class="col-1-3"&gt;
+     Sidebar
+  &lt;/div&gt;
+&lt;/div&gt;
+</pre>
+
+        </div>
+      </li>
+<li class="li step stepexpand">
+        <div class="note note"><span class="notetitle">Note:</span> 
+          The class names correspond to the desired output goal to divide the containing block context into columns.</div>
+
+        <span class="ph cmd">
+          In your CSS file, divide up your 100% grid context by writing classes to create your desired column widths.</span>
+        <div class="itemgroup stepxmp">
+<pre class="pre codeblock">
+.col-3-4 {
+  width: 75%;
+}
+.col-2-3 {
+  width: 66.66%;
+}
+.col-1-2 {
+  width: 50%;
+}
+.col-1-3 {
+  width: 33.33%;
+}
+.col-1-4 {
+  width: 25%;
+}
+</pre>
+
+        </div>
+      </li>
+<li class="li step stepexpand">
+        <div class="note note"><span class="notetitle">Note:</span> 
+          Normal flow of elements stacks these div blocks on each other.</div>
+
+        <span class="ph cmd">
+          In order for the columns to assemble in rows, write a regular expression selector to float all of the column classes.</span>
+        <div class="itemgroup stepxmp">
+<pre class="pre codeblock">
+[class*='col-'] {
+float: left;
+}
+</pre>
+
+        </div>
+      </li>
+</ol><p class="li stepsection">Clearing the parent containing block context</p><ol start="5"><li class="li step stepexpand">
+          <span class="ph cmd">
+            In your CSS file, use the <a class="xref" href="../../../shared-topics/c_css_declr_clear.html" title="The CSS 'clear' property helps web designers control block-level elients in relationship to 'floated' boxes."><samp class="ph codeph">clear</samp></a> declaration inside an <a class="xref" href="../../../shared-topics/c_css_pseudo_elem_after.html" title="Enter short description."><samp class="ph codeph">:after</samp></a> pseudo-element on a new <samp class="ph codeph">.cf</samp> class to clear <a class="xref" href="../../../shared-topics/c_css_val_both.html" title="Enter short description."><samp class="ph codeph">both</samp></a> right and left sides of the parent containing block.</span>
+          <div class="itemgroup stepxmp">
+<pre class="pre codeblock">
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</pre>
+
+          </div>
+        </li>
+<li class="li step stepexpand">
+        <span class="ph cmd">Apply the <samp class="ph codeph">.cf</samp> clear-fix class to the parent containing block: <samp class="ph codeph">.grid</samp></span>
+        <div class="itemgroup stepxmp">
+<pre class="pre codeblock">
+&lt;div class="grid cf"&gt;
+  ...
+&lt;/div&gt;
+</pre>
+
+        </div>
+      </li>
+</ol>
+  </div>
+
+</article></main></body>
+</html>

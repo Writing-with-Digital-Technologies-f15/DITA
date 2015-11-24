@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="m-bs-grid">
+
+  <title>Principles of Bootstrap 3 grids and how to code one</title>
+
+  <topichead id="principles-and-coding-bs-grid">
+  	<topicmeta>
+  		<navtitle>Bootstrap 3 grid layouts</navtitle>
+    </topicmeta>
+
+    <topicref href="grids/bootstrap3-grid/topics/c_bs_grid_overview.dita" type="concept" />
+    <topicref href="grids/bootstrap3-grid/topics/t_bs_coding_grid.dita" type="task"/>
+
+  </topichead>
+</map>

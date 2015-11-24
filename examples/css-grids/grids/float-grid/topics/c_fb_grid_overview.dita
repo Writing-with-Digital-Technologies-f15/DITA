@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="c-fb-grid" xml:lang="en-us">
+
+  <title>Introduction to the float-based grid in CSS</title>
+
+  <shortdesc>
+    Website grids can be easily coded with a simple structure of HTML containing blocks and CSS float and width values.
+  </shortdesc>
+
+  <conbody>
+    <p>Every person who begins to design web pages should understand the basic components to float-based, responsive grids. In this <xref href="t_fb_coding_grid.dita">tutorial</xref>, you will learn how to write a float-based, responsive grd in HTML and CSS.</p>
+  </conbody>
+
+</concept>

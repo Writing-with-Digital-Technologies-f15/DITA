@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="c-float-positioning-scheme" xml:lang="en-us">
+  <title>CSS float positioning scheme</title>
+  <shortdesc>
+    Learn about float positioning schemes in CSS.
+  </shortdesc>
+
+  <conbody id="c-fps-overview">
+    <p>
+      According to the CSS Working Group, a float positioning scheme defines the behavior of a box. A box can be "floated" left, right, both, or none within its current position and relation to its parent containing block and other inline elements.
+    </p>
+    <p>
+      For more information about float positioning scheme behavior, see the W3 specification: <xref href="http://www.w3.org/TR/CSS2/visuren.html#floats" scope="external" >http://www.w3.org/TR/CSS2/visuren.html#floats</xref> [outbound link].
+    </p>
+  </conbody>
+
+</concept>

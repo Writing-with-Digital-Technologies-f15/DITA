@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="m-fb-grid">
+
+  <title>Principles of float-based grids and how to code one</title>
+
+  <topichead id="principles-and-coding-fb-grid">
+    <topicmeta>
+      <navtitle>Float-based grid layouts</navtitle>
+    </topicmeta>
+
+    <topicref href="grids/float-grid/topics/c_fb_grid_overview.dita" type="concept" />
+
+    <topicset id="c-fb-grid">
+      <topicmeta>
+        <navtitle>What is 'float' positioning?</navtitle>
+      </topicmeta>
+      <topicref href="shared-topics/c_css_float_positioning_scheme.dita" type="concept">
+        <topicmeta>
+          <navtitle>'float' positioning schemes</navtitle>
+        </topicmeta>
+        <topicref href="shared-topics/c_css_declr_clear.dita" type="concept">
+          <topicref href="shared-topics/c_css_val_both.dita" type="concept"/>
+          <topicref href="shared-topics/t_clearfix.dita" type="task"/>
+        </topicref>
+      </topicref>
+    </topicset>
+
+    <topicgroup id="t-fb-grid">
+      <topicref href="grids/float-grid/topics/t_fb_coding_grid.dita" type="task"/>
+    </topicgroup>
+
+  </topichead>
+</map>

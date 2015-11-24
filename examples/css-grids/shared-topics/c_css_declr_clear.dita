@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dentry/technicalContent/dentry/concept.dentry">
+
+<concept id="c-clear-property" xml:lang="en-us">
+
+  <title>The 'clear' property: How to position boxes next to floats</title>
+
+  <shortdesc>
+  The CSS 'clear' property helps web designers control block-level elients in relationship to 'floated' boxes.
+  </shortdesc>
+
+  <conbody>
+  <p>According to the <xref href="http://www.w3.org/TR/CSS2/visuren.html#propdef-clear" scope="external">W3 specification on CSS2</xref>, the 'clear' property "indicates which sides of an element's box(es) may <i>not</i> be adjacent to an earlier floating box." In other words, the 'clear' property only applies to block-level elements -- not floated elements within itself or in other block formatting contexts.</p>
+  
+  <!-- Modified W3 spec table :: HTML-to-DITA -->
+  <table>
+    <tgroup cols="2">
+      <colspec colname="COLSPEC0" colwidth="70*"/>
+      <colspec colname="COLSPEC1" colwidth="125*"/>
+
+      <thead>
+        <row>
+        <entry colname="COLSPEC0" valign="top">'clear'</entry>
+        <entry colname="COLSPEC1" valign="top">entry</entry>
+        </row>
+      </thead>
+
+      <tbody>
+
+        <row>
+          <entry><i>Value:</i> </entry>
+          <entry>none | left | right | both | inherit</entry></row>
+
+        <row>
+          <entry><i>Initial:</i> </entry>
+          <entry>none</entry></row>
+
+        <row>
+          <entry><i>Applies to:</i> </entry>
+          <entry>block-level elements</entry></row>
+
+        <row>
+          <entry><i>Inherited:</i> </entry>
+          <entry>no</entry></row>
+
+        <row>
+          <entry><i>Percentages:</i> </entry>
+          <entry>N/A</entry></row>
+
+        <row>
+          <entry><i>Media:</i> </entry>
+          <entry>visual</entry></row>
+
+        <row>
+          <entry><i>Computed value:</i>&nbsp;&nbsp;</entry>
+          <entry>as specified</entry></row>
+
+      </tbody>
+    </tgroup>
+  </table>
+  </conbody>
+
+</concept>

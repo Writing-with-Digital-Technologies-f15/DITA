@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="t-float-grid" xml:lang="en-us">
+  <title>Coding a float-based, responsive grid</title>
+  <titlealts>
+    <navtitle>Coding a float-based, responsive grid</navtitle>
+  </titlealts>
+
+  <prolog><metadata>
+    <keywords>
+      <indexterm>HTML</indexterm>
+      <indexterm>CSS</indexterm>
+      <indexterm>grids</indexterm>
+      <indexterm>containing blocks</indexterm>
+      <indexterm>float</indexterm>
+    </keywords>
+  </metadata></prolog>
+
+  <taskbody>
+
+    <context>
+      <p>
+        The key to writing a responsive, float-based grid is developing the 2 following structures of containing blocks: 1) initial grid context, and 2) CSS classes devoted to defining column widths within the former element.
+      </p>
+    </context>
+
+    <steps>
+      <stepsection>Grid context</stepsection>
+      <step>
+        <cmd>
+          Write a wrapper &lt;div&gt; element with a class named "grid"</cmd>
+        <stepxmp>
+<codeblock>
+&lt;div class="grid"&gt;
+  &lt;!-- 100% wide --&gt;
+&lt;/div&gt;
+</codeblock>
+        </stepxmp>
+      </step>
+      
+      <stepsection>Making column widths</stepsection>
+      <step>
+        <cmd>
+          In the HTML file, write a testable combination of columns within the containing block <codeph>.grid</codeph>.</cmd>
+        <info>
+          The example below presents a common use case, creating a main content block with a sidebar to its right.</info>
+        <stepxmp>
+<codeblock>&lt;!-- Example of a common use case --&gt;
+&lt;div class="grid"&gt;
+  &lt;div class="col-2-3"&gt;
+     Main Content
+  &lt;/div&gt;
+  &lt;div class="col-1-3"&gt;
+     Sidebar
+  &lt;/div&gt;
+&lt;/div&gt;
+</codeblock>
+        </stepxmp>
+      </step>
+
+      <step>
+        <note>
+          The class names correspond to the desired output goal to divide the containing block context into columns.</note>
+        <cmd>
+          In your CSS file, divide up your 100% grid context by writing classes to create your desired column widths.</cmd>
+        <stepxmp>
+<codeblock>
+.col-3-4 {
+  width: 75%;
+}
+.col-2-3 {
+  width: 66.66%;
+}
+.col-1-2 {
+  width: 50%;
+}
+.col-1-3 {
+  width: 33.33%;
+}
+.col-1-4 {
+  width: 25%;
+}
+</codeblock>
+        </stepxmp>
+      </step>
+
+      <step>
+        <note>
+          Normal flow of elements stacks these div blocks on each other.</note>
+        <cmd>
+          In order for the columns to assemble in rows, write a regular expression selector to float all of the column classes.</cmd>
+        <stepxmp>
+<codeblock>
+[class*='col-'] {
+float: left;
+}
+</codeblock>
+        </stepxmp>
+      </step>
+
+      <stepsection>Clearing the parent containing block context</stepsection>
+        <step conref="../../../shared-topics/t_clearfix.dita#clear-fix/cf-step">
+          <cmd>Insert clearfix conref</cmd>
+        </step>
+
+      <step>
+        <cmd>Apply the <codeph>.cf</codeph> clear-fix class to the parent containing block: <codeph>.grid</codeph></cmd>
+        <stepxmp>
+<codeblock>
+&lt;div class="grid cf"&gt;
+  ...
+&lt;/div&gt;
+</codeblock>
+        </stepxmp>
+      </step>
+
+    <!-- <example otherprops="html5-out">
+      <p data-height="312" data-theme-id="0" data-slug-hash="ojBpXW" data-default-tab="result" data-user="lndgrn" class='codepen'>See the Pen <a href='http://codepen.io/lndgrn/pen/ojBpXW/'>Basic CSS Float Grid</a> by Chris Lindgren (<a href='http://codepen.io/lndgrn'>@lndgrn</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+      <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+    </example> -->
+
+    </steps>
+  </taskbody>
+</task>

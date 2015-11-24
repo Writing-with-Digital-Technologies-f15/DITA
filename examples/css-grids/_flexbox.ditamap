@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="m-flex-grid">
+
+  <title>Principles of Flexbox grids and how to code one</title>
+
+  <topichead id="principles-and-coding-flex-grid">
+  	<topicmeta>
+  		<navtitle>Flexbox grid layouts</navtitle>
+    </topicmeta>
+
+    <topicref href="grids/flexbox-grid/topics/c_flex_grid_overview.dita" type="concept" />
+    <topicref href="grids/flexbox-grid/topics/t_flex_coding_grid.dita" type="task"/>
+
+  </topichead>
+</map>

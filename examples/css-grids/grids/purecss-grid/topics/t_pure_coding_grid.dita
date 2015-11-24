@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="t-pure-grid" xml:lang="en-us">
+  <title>Coding a grid layout with Pure.css</title>
+
+  <prolog><metadata>
+    <keywords>
+      <indexterm>Pure.css</indexterm>
+    </keywords>
+  </metadata></prolog>
+
+  <taskbody>
+
+    
+  </taskbody>
+</task>

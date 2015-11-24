@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="m-pure-grid">
+
+  <title>Principles of Pure.css grids and how to code one</title>
+
+  <topichead id="principles-and-coding-pure-grid">
+  	<topicmeta>
+  		<navtitle>Pure.css grid layouts</navtitle>
+    </topicmeta>
+
+    <topicref href="grids/purecss-grid/topics/c_pure_grid_overview.dita" type="concept" />
+    <topicref href="grids/purecss-grid/topics/t_pure_coding_grid.dita" type="task"/>
+
+  </topichead>
+
+</map>

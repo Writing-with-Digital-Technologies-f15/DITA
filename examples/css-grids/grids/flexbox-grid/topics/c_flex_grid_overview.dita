@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="c-flex-grid" xml:lang="en-us">
+
+  <title>Introduction to grid layouts with flexbox</title>
+
+  <shortdesc>
+    Empty for now!
+  </shortdesc>
+
+  <conbody>
+    <p>Empty for now!</p>
+  </conbody>
+
+</concept>

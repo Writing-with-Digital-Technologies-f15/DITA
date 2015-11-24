@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="m-super-grids">
+
+  <title>Coding grids</title>
+
+      <topicref href="_bootstrap3.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Bootstrap 3 Grid</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="_flexbox.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Flexbox Grid</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="_float.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Float-based Grid</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="_pure.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Pure.css Grid</navtitle>
+        </topicmeta>
+      </topicref>
+
+</map>
