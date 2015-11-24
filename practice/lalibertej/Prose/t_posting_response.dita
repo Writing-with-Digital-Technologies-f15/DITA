@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
-<task id"posting-response">
+<task id="posting-response">
 
 	<title>Creating a Prose.io post</title>
 	<shortdesc>
@@ -28,15 +28,33 @@
 					Select the "Authorize on Github" button and log in to your Github account.
 				</cmd>
 				<info>
+					If you don't have a Github account already, you will need to create one now.
 				</info>
 			</step>
 			<step>
 				<cmd>
-					In Prose.io, navigate to the folder you'd like to post inside.
+					In Prose.io, navigate to the folder (inside Writing-with-Digital-Technologies-f15) where you'd like to post.
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					Create a new file using the Prose.io "New File" button.
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					Write post using Github-flavored markdown.
+				</cmd>
+				<info>
+					Remember to delete the dummy text!
+				</info>
+			</step>
+			<step>
+				<cmd>
+					Save the file/commit your changes.
 				</cmd>
 			</step>
 		</steps>
 	</taskbody>
-
 
 </task>

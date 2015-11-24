@@ -4,4 +4,5 @@
 <map id="Posting-to-Prose">
 	<title>Posting To Prose</title>
 	<topicref href="t_task_analysis.dita" />
+	<topicref href="c_task_analysis.dita" />
 </map>

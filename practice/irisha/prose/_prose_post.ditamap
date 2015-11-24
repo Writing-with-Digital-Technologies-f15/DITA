@@ -4,4 +4,6 @@
 <map id="Using Prose.io in 4662W">
   <title>Using Prose.io in 4662W</title>
   <topicref href="t_posting_reponse.dita"/>
+  <topicref href="c_prose_io.dita"/>
+  <topicref href="r_properties.dita"/>
 </map>

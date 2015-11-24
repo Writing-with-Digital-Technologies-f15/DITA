@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="prose_io">
+	<title>Prose.io </title>
+	<shortdesc>This is an explanation of what Prose.io is</shortdesc>
+	<conbody>
+		<p>Prose.io is a content editor for Github. Github authorizes Prose.io to connect your Github account to it. This allows you to create and commit a file directly from Prose.io to a repository on Github. </p>
+		<p> Prose.io is essentially a text/markdown editor specficially used for Github. You cannot use Prose.io without a Github account. </p>
+	</conbody>
+</concept>
