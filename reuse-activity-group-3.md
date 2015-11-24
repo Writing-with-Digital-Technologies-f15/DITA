@@ -53,11 +53,11 @@ Answer the initial question by using the examples in this repo. Otherwise, use y
     
     The book has an interesting example of <code>copy-to</code> use. (p. 193) Is this best use of the attribute? The example just slightly rephrases the link title, perhaps confusing the reader more than it helps the reader.
     
-7. Since we are not using a DITA-aware text editor, consider why an <code>id</code>-writing scheme will prove to be important. Come up with some rules of thumb for the class.
+7. _Since we are not using a DITA-aware text editor, consider why an <code>id</code>-writing scheme will prove to be important. Come up with some rules of thumb for the class._
 	
     DITA-aware text editors create the conref link for you automatically. Because we're not using a DITA-aware editor, id attributes will be the best way to create conref links.
     
-8. Consider how to integrate the reuse guidelines (pp. 199-200) into our writing and revision habits.
+8. _Consider how to integrate the reuse guidelines (pp. 199-200) into our writing and revision habits._
 	
     Since our projects are relatively small, when we choose to use conrefs, we have to be careful that we are using them for the right reasons (aka, because they're useful, not just because we want to use the tag). Use id attributes carefully, as that will be our best way of linking to content. Avoid redundancy. 
 
