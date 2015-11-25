@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+
+<reference id="understanding-prose.io-markdown-language">
+	<title>Understanding Prose.io markdown language</title>
+  <shortdesc>Prose.io requires you to write your posts in markdown format. This markdown language reference guide lists how to achieve certain specifications.</shortdesc>
+
+	<refbody>
+		<table>
+			<tgroup cols="2">
+				<colspec colname="Tips" colwidth="121*"/>
+				<colspec colname="Usage" colwidth="76*"/>
+				<thead>
+					<row>
+						<entry colname="Tips" valign="top">Markdown Tips</entry>
+						<entry colname="Usage" valign="top">Usage</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Headers</entry>
+						<entry>Use hashes (#) to differentiate between various heading sizes. For example: ## will be a larger heading than compared to ####. More hashes will result in smaller headings.</entry>
+					</row>
+					<row>
+						<entry>Links</entry>
+						<entry><p>Links will require text that you want to serve as the link to be bracketed, ex. [Wikipedia].</p>
+							<p>Inline link: After bracketed text, follow with parentheses to hold link URL, ex. [Wikipedia](https://www.wikipedia.org)</p>
+							<p>Reference link: After bracketed text, follow with brackets to hold link URL, ex. [Wikipedia][https://www.wikipedia.org]</p>
+						</entry>
+					</row>
+					<row>
+						<entry>Emphasis</entry>
+						<entry><p>Italicize: Use asterisk (*) or underscores (_).</p>
+							<p>Bold: Use two asterisk (**) or two underscores (__).</p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+	</refbody>
+</reference>

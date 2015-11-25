@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+<task id="prose.io-posting-for-writ-4662w">
+<title>Prose.io posting for WRIT 4662W</title>
+  <shortdesc>Create a post in Prose.io using Github.</shortdesc>
+
+<taskbody>
+  <context><p>Before creating a post to Prose.io, you will need to have set up a Github account. You must also be signed into your Github account before starting the following steps.</p></context>
+    <steps>
+      <step>
+        <cmd>Go to Prose.io website</cmd>
+      </step>
+      <step>
+        <cmd>Authorize to link your Github account to Prose.io</cmd>
+      </step>
+      <step>
+        <cmd>Once in Prose.io, navigate to the correct folder</cmd>
+      </step>
+      <step>
+        <cmd>Select "NEW FILE" to write your post</cmd>
+          <info>Delete dummy markdown text before writing your post</info>
+      </step>
+      <step>
+        <cmd>Click save to commit posting</cmd>
+      </step>
+    </steps>
+</taskbody>
+</task>

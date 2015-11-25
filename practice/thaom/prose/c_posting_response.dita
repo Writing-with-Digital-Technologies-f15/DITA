@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="github-and-prose">
+	<title>Github and Prose</title>
+    <shortdesc>Prose.io and Github work together to make managing content easier.</shortdesc>
+	<conbody>
+		<p>Github allows you to develop content, sharing it and making updates or changes to it.
+			 Repositories can be created within Github, which are essentially like folders.
+			 And within these repositories, sub folders can be created and files can be stored.
+			 When using Github for a course, Prose.io makes it simpler for you to write content and automatically
+			 pushing that to show up on Github. Then on Github, you can review your peer's work and comment on specific
+			 lines or on the overall post.</p>
+	</conbody>
+</concept>

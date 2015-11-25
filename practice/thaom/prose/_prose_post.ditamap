@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+<map id="prose.io-posting-for-writ-4662w">
+  <title>Prose.io posting for WRIT 4662W</title>
+  <topicref href="t_posting_response.dita"></topicref>
+  <topicref href="c_posting_response.dita"></topicref>
+  <topicref href="r_posting_response.dita"></topicref>
+</map>
