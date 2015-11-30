@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="Posting-to-Prose">
+	<title>Posting To Prose</title>
+	<topicref href="c_font_fontface.dita" />
+	<topicref href="c_font_kerning.dita" />
+	<topicref href="c_font_sIFR.dita" />
+	<topicref href="r_font_GenericFamilies.dita />
+	<topicref href="t_font_task.dita />
+</map>	

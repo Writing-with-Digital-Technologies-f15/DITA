@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" 
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="Font-face">
+	<title>Font-face</title>
+		<shortdesc>Font-face is one of the most effective methods for making sure your font renders itself 
+		just how you want it.</shortdesc>
+		
+		<conbody>
+			<p>@font-face- this CSS rule allows for the replacement of fonts with other fonts from 
+			different formats if the fonts which are being used are not found within the parameters 
+			of the browser being used.  This means that if a given font is not found, the site 
+			will be rendered with the next available font on the list (or re-set to the default of 
+			the given generic family, if none are found).  Each of these subsequent fonts can be 
+			retrieved from a different Open-source format, as long as the format itself is specified 
+			in the rule.</p>
+			<p>@font-face also allows for the definition of composite fonts to a given site, if there 
+			is a need for some glyphs from a different alphabet in a font which doesn’t normally carry 
+			those glyphs.  In this case, the Unicode range must be defined for the character of that usage.</p>
+		</conbody>
+</concept>
