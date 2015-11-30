@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" 
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="Kerning">
+	<title>Kerning</title>
+		<shortdesc>Kerning is a process which has much to do with how well your font looks
+		when it is rendered.</shortdesc>
+		
+		<conbody>
+		<p>Kerning is the process of moving a glyph, either manually or automatically closer to a 
+		juxtaposed letter.  The process generates from when printing presses needed letters closer 
+		together than a solid block would otherwise allow. The printers had special blocks created 
+		over which part of the letter would hang, and fit under a neighboring glyph block. The piece 
+		of metal hanging out was called a “kern”.  Today many foundries and typeface designers include 
+		a certain amount of automatic kerning into their designs. The rendering system uses each glyph 
+		and the glyphs immediately following that letter to find if this pair exists as something 
+		different than simply the first glyph alone. So kerned pairs are placed before that glyph in the 
+		glyph generation programming of that font.  Some formats now, though, in order to take up less 
+		data space, simply group letter into the same roles for whether they’re the first letter or the 
+		second, and from there determine how close the second letter in the pair should be moved back 
+		toward the first.</p>
+		</conbody>
+</concept>

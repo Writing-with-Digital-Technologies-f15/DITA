@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" 
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="sIFR">
+	<title>sIFR</title>
+		<shortdesc>sIFR is an alternative to using @font-face, and is effective at quickly rendering the font
+		of your choice.</shortdesc>
+		
+		<conbody>
+			<p>SIFR is another way to render text that is not your bland, everyday browser fare. What 
+		sIFR does is very similar to image replacement, but it grants more sizing capabilities and 
+		allows the text to more succinctly blend into the content of a page as if it were written in the 
+		HTML of the webpage.  It does, however, require a Flashplayer to render, which not everyone has, 
+		and it uses Javascript to over-write the HTML code if the appropriate player is installed.</p>
+		</conbody>
+</concept>

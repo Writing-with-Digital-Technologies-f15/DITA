@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA
+Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="font-task">
+	<title>Using a Font on Your Site</title>
+	<shortdesc>
+	The font you choose and how you implement it can have a positive impact on the impression it makes and its
+	ease of use.	
+	</shortdesc>
+	
+	<taskbody>
+		<step>
+			<cmd>Have the content and main elements mapped out in an HTML file.</cmd>
+		</step>
+		<step>
+			<cmd>Begin a CSS file which the HTML file can pull rules from.</cmd>
+		</step>
+		<step>
+			<cmd>Gain an understanding of which size, color, and weight schemes are visually pleasing.</cmd>
+		</step>
+		<step>
+			<cmd>Decide on the particular scheme you might use.</cmd>
+		</step>
+		<step>
+			<cmd>Set up the rules for your fonts based on which type of texts exist in the HTML file.</cmd>
+		</step>
+		<step>
+			<cmd>View the finished product and make any adjustments based on the final output.</cmd>
+		</step>
+	</taskbody>
+</task>
