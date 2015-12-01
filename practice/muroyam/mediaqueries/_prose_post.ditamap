@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+<map title="DITA Topic Map">
+    <title>Posting with Prose.io</title>
+    <topicref href="t_prose_post.dita"/>
+    <topicref href="c_editor.dita" />
+    <topicref href="r_markdown.dita" />
+</map>
