@@ -4,22 +4,24 @@ Reference//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/refer
 
 <reference id="Prose.io-language">
 	<refbody>
-		  <property>
-        		<proptype>1</proptype>
-        		<propvalue>Generic Families</propvalue>
-            		<li>Serif- These fonts are defined by their having serifs, or a ìflaring, cross-stroke or other ornamentation (Daggett, 3.1) 
-			on the end of each stroke in the letter. They tend to appear more formal and give their document or 
-			signage a more official feeling.</li>
-            		<li>Sans-Serif- These are typefaces used without the serifs, which tend to be more plain and serve a variety of roles.</li>
-            		<li>Cursive- belonging in this group is any font which has a ìrollingî or ìflowingî pattern in which letters connect or seem 
-			to almost connect to each other, and generally resembles handwriting.</li>
-			<li>Fantasy- Arguably the most wide-ranging of the generic families, fantasy ranges along a spectrum of any style which would 
-			not be included in any of the other families, and mostly for purposes of fun and amusement.</li> 
-			<li>Monospace- in this typeface, each figure takes up the same amount of space on a line, with m, 
-			for example, taking up the same amount of room as i. This makes the need for kerning less necessary, 
-			given that the spacing has been completely worked out within the typeface itself.  Often these fonts 
-			have the appearance of something that would appear on typewriters of old, and offer a formal style, leaning towards fun.</li>
-          		</ul>
-			</propdesc>
-      		</property>
+		<property>
+	         <proptype>4</proptype>
+	         <propvalue>Something</propvalue>
+	         <propdesc>Description of each Font-family</propdesc>
+	             <li>Serif- These fonts are defined by their having serifs, or a ‚Äúflaring, cross-stroke or other
+								 ornamentation (Daggett, 3.1) on the end of each stroke in the letter.
+								 They tend to appear more formal and give their document or signage a more official feeling.</li>
+	             <li>Sans-Serif- These are typefaces used without the serifs, which tend to be more plain
+								 and serve a variety of roles.</li>
+							 <li>Cursive- belonging in this group is any font which has a ‚Äúrolling‚Äù or ‚Äúflowing‚Äù pattern
+								 in which letters connect or seem to almost connect to each other, and generally resembles
+								 handwriting.</li>
+							 <li>Fantasy- Arguably the most wide-ranging of the generic families, fantasy ranges along a
+								 spectrum of any style which would not be included in any of the other families, and mostly for purposes of fun and amusement.</li>
+							 <li>Monospace- in this typeface, each figure takes up the same amount of space on a line, with m, for example, taking up the same amount
+								 of room as i. This makes the need for kerning less necessary, given that the spacing has been completely worked out within the typeface
+								 itself.  Often these fonts have the appearance of something that would appear on typewriters of old, and offer a formal style, leaning towards fun.</li>
+	           </ul>
+	       </property>
 	</refbody>
+</reference>
