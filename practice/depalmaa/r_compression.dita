@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+<reference id="termsforLZW">
+    <title>Basic Terms for GIF and PNG</title>
+    <shortdesc>Some basic terms involved in the compression of GIF and PNG files. </shortdesc>
+    <refbody>
+        <simpletable>
+            <sthead>
+                <stentry>Term</stentry>
+                <stentry>Definition</stentry>
+            </sthead>
+            <strow>
+                <stentry>#LZW Compression</stentry>
+                <stentry>a lossless data compression algorithm that was first published by 		 			Terry Welch in 1984 as a modification of the LZ77 and LZ78 compression algorithms developed by Jacob Ziv and Abraham Lempel</stentry>
+            </strow>
+            <strow>
+                <stentry>Lossless Data Compression/stentry>
+                <stentry>data compression algorithm where original data can be perfectly reconstructed from the compressed data</stentry>
+            </strow>
+            <strow>
+                <stentry>Dictionary Coder</stentry>
+                <stentry>type of lossless data compression algorithms that enable a table/ dictionary to encode and decode files.</stentry>
+            </strow>
+            <strow>
+                <stentry>LZW Table/ Dictionary</stentry>
+                <stentry>a dictionary developed by scanning a text for repeated letters and letter strings and giving them a corresponding "dictionary" entry of bits/<stentry>
+            </strow>
+           
+        </simpletable>
+    </refbody>
+</reference>
