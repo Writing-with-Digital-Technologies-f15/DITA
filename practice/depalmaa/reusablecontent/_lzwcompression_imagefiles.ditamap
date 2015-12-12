@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+<map title="DITA Topic Map">
+    <title>LZW Compression and Image Files</title>
+    <topicref href="t_gif.dita"/>
+    <topicref href="t_png.dita"/>
+    <topicref href="t_gif_vs_png.dita"/>
+     <topicref href="r_compression.dita" />
+    <topicref href="c_lzw.dita" />
+ 
+</map>
