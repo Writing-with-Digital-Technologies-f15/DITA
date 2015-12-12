@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+<concept id="LZWCompression">
+    <title>LZW Compression</title>
+    <shortdesc>A brief explanation of LZW Compression</shortdesc>
+    <conbody>
+        <p>
+       Lempel-Ziv-Welch (LZW) is a lossless data compression algorithm that was first published by Terry Welch in 1984 as a modification of the LZ77 and LZ78 compression algorithms developed by Jacob Ziv and Abraham Lempel. It is a dictionary based compression algorithm that is relatively simple for developers to implement and is widely used in GIF file formats.</p>
+        <p>LZW is a dictionary-based compression method that takes advantage of repetitive patterns. LZW is based on a standard character set dictionary of 256 characters. To decompress the data, LZW does not require the dictionary assignments that were featured in the compression; this is because both the encoding and the decoding programs utilize the same 256 characters. To decompress, LZW reads an assigned character and “looks up” the character in the dictionary to see what substring it was applied to. This process is repeated until the information is decoded.</p>
+        <p> LZW is used to compress GIF files by removing horizontal redundancies.This caused a few issues in the early 1990's, when the patent holders for LZW began collecting licensing fees on the use of the algorithm. These issues inspired a Usenet.com.graphics discussion and resulted in the creation of the PNG file. PNG files use a variation of LZW compression that does not fall under the Unisys patent.
+        </p>   
+         </conbody>
+</concept>
