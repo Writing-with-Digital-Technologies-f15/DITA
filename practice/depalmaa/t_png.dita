@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<! DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.
+V1_2/dtd/technicalContent/dtd/task.dtd">
+<task id="GIFvsPNG">
+<title> Converting to a PNG File using Command Line on Mac </title>
+	<shortdesc>
+		This task will help you convert various file formats to a PNG file on a Mac operating system.
+		</shortdesc>
+
+<taskbody>
+	<prereq>
+		<p> Have a webpage that is currently in developmnet</p>
+		<p> Have the appropriate software and hardware</p>
+		<p> Have an OS X operating system. </p>
+		<p> Have a file that you want to convert to PNG </p>
+		<p> Connect to the directory your image is located in </p>
+		<p> If converting multiple images, have a sub file called "converted". </p>		</prereq>
+				
+<content>
+<p> This task will help you convert to a PNG file  on a Mac OS X system. </p>
+</content>
+<steps>
+	<step>
+	<cmd>
+	Open the terminal. We will be using "sips". sips is Apple's pre-installed "simple 		   image processing system".
+    </cmd>
+     </step>
+<step>
+<cmd>
+Type: "sips -s format png test.jpg --out test.png"  into the terminal; Here we are converting from a jpg file.
+</cmd
+</step>
+<step>
+<cmd>
+If you wish to convert from another file (ie, a pdf) replace ".jpg" with ".pdf". 
+</cmd>
+</step>
+<step>
+<cmd>
+To convert multiple image files at once, type "for i in *.jpeg; do sips -s format png $i --out Converted/$i.png;done" Here we've converted all "jpeg" files within our directory to png and placed them in the "converted" folder. 
+</cmd>
+</step>
+<step>
+<cmd>
+If you wish to convert your batch of images from another file (ie, a pdf) replace ".jpg" with ".pdf". 
+</cmd>
+</step>
+<step>
+<cmd>
+In the event that a "libpng warning" pops up on your terminal, you can ignore it. It is an issue related to different versions of image control programs on the same computer. 
+</cmd>
+</step>
+</steps>
+</taskbody>
+</task>
