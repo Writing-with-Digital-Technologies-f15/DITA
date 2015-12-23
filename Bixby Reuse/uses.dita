@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd"><reference id="uses"><title>Uses for Center</title>
+<shortdesc>The element Center has multiple uses. Currently, most of them can be carried out in CSS.</shortdesc>
+<refbody>
+<section><title>HTML</title>
+<p>Now deprecated, Center was an element in CSS that worked within a line. Using the bracketed Center, a coder could adjust the alignment of images, text, and other block or line-level items. 
+The element was simply placed around the item that the coder wanted to center. The HTML design element Center was convenient for centering a single word or line of text instead of a full paragraph.</p></section>
+<section><title>CSS</title>
+<p>Using CSS, designers are able to work with the alignment of block-level items. Here are some things that the <xref href="tags.dita">center value of an alignment attribute</xref> can be used for in CSS:</p>
+	<ul>
+		<li><xref href="text.dita">Centering text horizontally</xref></li>
+		<li><xref href="images.dita">Centering images horizontally</xref> and vertically</li>
+		<li><xref href="div.dita">Centering an entire div block,</xref> either as a block or within another div</li>
+		<li>Centering other types of blocks elements of set or flexible width</li>  
+	</ul></section> 
+</refbody></reference>

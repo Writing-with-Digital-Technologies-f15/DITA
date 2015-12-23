@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.V1_2/dtd/technicalContent/dtd/task.dtd">
+<task id="images"><title>Centering Images</title>
+<shortdesc>Centering an image in CSS can be most easily achieved by making the image into a block. Centered images can balance a webpage or draw attention to important details.</shortdesc>
+<taskbody>
+<prereq><p conref="text.dita#text/prerequisites/"></prereq>
+<context>To center your selected image:</context>
+<steps>
+	<step><cmd>In your CSS style sheet, create an IMG.displayed element.</cmd>
+		<note>Don't forget to add the open bracket after the element!</note></step>
+	<step><cmd>Within this element, write the "display" property.</cmd>
+		<substeps><substep><cmd>Do this by typing <userinput>display:</userinput> after the bracket.</cmd></substep>
+		<substep><cmd>After the colon, set the display property to "block" by typing <userinput>block</userinput>.</cmd>
+			<info>Turning the fixed width of the image into a block will allow it to be centered on a page.</info>
+			<note conref="text.dita#text/semicolon/"></substep>
+		</substeps></step>
+	<step id="margin-left"><cmd>Follow the first property with another property, "margin-left."</cmd>
+		<substep><cmd>After the colon, set the margin-left property to auto, followed by a semicolon.</cmd>
+		<info>The auto setting will cause the item to be positioned with equal distance from the two side-to-side margins of the page.</info></substep></step>
+	<step id="margin-right"><cmd>Follow the margin-left property with a margin-right property.</cmd>
+		<substep><cmd>Set the margin-right property to auto as well, followed by a semicolon.</cmd></substep></step>
+	<step><cmd>Close the IMG.displayed element with a second bracket.</cmd>		
+		<stepxmp>It will look like this: IMG.displayed { display: block; margin-left: auto; margin-right: auto }</stepxmp></step>
+	<step><cmd>In the HTML, set the img element class as "displayed."</cmd>
+		<info>This will allow the HTML image source to be read by the settings we gave to the IMG.displayed properties in CSS.</info>
+		<stepxmp>The HTML code will read: IMG class="displayed" src="..."</stepxmp></step>
+	<step><cmd conref="text.dita#text/effect/">
+                <info conref="text.dita#text/view/">
+		<info><image href="sheep.jpeg"/></info></step>
+</steps></taskbody></task>

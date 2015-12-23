@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.2/OS/dtd/concept.dtd" []>
+<concept id="tags"><title>Building Blocks of Code</title>
+<shortdesc>There are a number of pieces that go into building code in HTML and CSS. Elements, attributes, and values are the main ones that you may run across.</shortdesc>
+<conbody>
+<section><title>Elements</title>
+<p><term>Elements</term> are the largest unit of the three, and are also known as tags. They can appear in both HTML and CSS. Each element describes a specific group or type of item, such as: 
+	<ul>
+		<li>Body</li>
+		<li>Images (img)</li>
+		<li>Paragraphs (p)</li>
+		<li>Headings (h1, h2, h3, etc.)</li>
+		<li>Div</li>
+	</ul></p>
+<p>Center and other design functions used to be HTML elements, but now they reside in CSS.</p></section>
+<section><title>Attributes</title>
+<p>An <term>attribute</term> is a building block of code that accompanies an element and modifies the way it is being used. Some familiar attributes include:
+	<ul>
+		<li>align</li>
+		<li>background-color/bgcolor</li>
+		<li>charset</li>
+		<li>class</li>
+		<li>color</li>
+		<li>height</li>
+		<li>id</li>
+		<li>width</li>
+	</ul></p></section>
+<section><title>Values</title>
+<p><term>Values</term> are found most often in CSS are born of necessity from attributes. While attributes adjust how an element is working, the value, which follows the attribute, tell the element how much or which way to alter itself.
+As a result, values can vary immensely based upon the goal of a designer or the function of an element or webpage.</p>
+<p>While <xref href="history.dita">inline design elements</xref> in HTML often served as both element and attribute and did not have much room for values, CSS offers greater customization opportunities. 
+Attributes like alignment, for example, can take on multiple values, like left-align, center, and right-align, whereas previously in HTML each of those values were their own element and had to be used individually--which made coding more complicated and disorderly.</p></section>		 
+</conbody></concept>

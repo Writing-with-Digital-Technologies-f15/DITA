@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+
+<map id="map">
+	<title>Centering in HTML5 and CSS</title>
+	<topicref href="text.dita" />
+	<topicref href="images.dita" />
+	<topicref href="div.dita" />
+	<topicref href="history.dita" />
+	<topicref href="tags.dita" />
+	<topicref href="uses.dita" />
+</map>

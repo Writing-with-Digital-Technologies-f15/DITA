@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="history"><title>The HTML Center Element</title>
+<shortdesc>The current standard for centering techniques is that they are done in CSS. In the past, Center was an HTML element.</shortdesc>
+<conbody>
+<p>Prior to the development of CSS, items were centered within HTML. Coders used design <term>elements</term> to change the visuals of their webpages. These elements were inserted into lines of HTML. 
+For example, if you wanted to center a line of text, you would surround it with the bracketed element Center. Web browsers would--and the older versions still do--read these <term>inline</term> design elements and center the line of text accordingly.</p>
+<p>While inline elements do still exist, elements related to visual style such as Center have been moved into CSS. CSS allows these elements more customization, and HTML code is cleaner and easier to read and write when it is not filled with scattered design-related elements.</p>
+</conbody></concept>

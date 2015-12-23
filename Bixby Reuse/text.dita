@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+<task id="text"><title>Centering Text</title>
+<shortdesc>You can use CSS to center a block of text in HTML5. Headings, paragraphs, and quotes are often centered for emphasis or design purposes.</shortdesc>
+<taskbody><prereq>
+<p id="prerequisites">In order to center an item, you must have a functioning HTML document with a matching CSS style sheet.</p>
+<p>Next, pick out which text you would like to center.</p></prereq>
+<context>To center your selected item of text:</context>
+<steps>
+<step><cmd>Locate the CSS that agrees with your item of text.</cmd>
+	<stepxmp>For example, <userinput>h1 {</userinput>, <userinput>p {</userinput>, and so on.</stepxmp></step>
+<step><cmd>Create a new line for the CSS element.</cmd></step>
+<step><cmd>Type <userinput>text-align:</userinput> in the new line.</cmd></step>
+<step><cmd>Set the value of the text-align property to center.</cmd>
+	<substep><cmd>Do this by typing <userinput>Center</userinput> after the colon.</cmd>
+	<stepxmp>It will look like: p { text-align: center; </stepxmp>
+	<note id="semicolon">Don’t forget to add the semicolon after the center attribute, or the property might not display correctly.</note></substep></step>
+<step><cmd id="effect">Check to see if your CSS updates are effective.</cmd>
+	<info id="view">Saving your HTML/CSS as a .html document will allow you to view it as a webpage and see your changes to the CSS as they would appear to the public.</info>
+	<info><image href="css-preview.png"/>
+	<image href="IC86459.jpeg"/></info></step>
+</steps></taskbody></task> 
